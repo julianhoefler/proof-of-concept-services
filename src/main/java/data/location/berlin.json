@@ -1,0 +1,134 @@
+[
+  {
+    "name": "Berlin Hbf",
+    "lon": 13.369549,
+    "lat": 52.525589,
+    "id": 8011160
+  },
+  {
+    "name": "Berlin Ostbahnhof",
+    "lon": 13.434684,
+    "lat": 52.510487,
+    "id": 8010255
+  },
+  {
+    "name": "Berlin Gesundbrunnen",
+    "lon": 13.388516,
+    "lat": 52.548961,
+    "id": 8011102
+  },
+  {
+    "name": "Berlin-Spandau",
+    "lon": 13.196902,
+    "lat": 52.53465,
+    "id": 8010404
+  },
+  {
+    "name": "Berlin Südkreuz",
+    "lon": 13.365315,
+    "lat": 52.475043,
+    "id": 8011113
+  },
+  {
+    "name": "BER Berlin Brandenburg Airport",
+    "lon": 13.511947,
+    "lat": 52.364808,
+    "id": 8011201
+  },
+  {
+    "name": "Berlin Zoologischer Garten",
+    "lon": 13.331992,
+    "lat": 52.507278,
+    "id": 8010406
+  },
+  {
+    "name": "Berlin-Charlottenburg",
+    "lon": 13.302327,
+    "lat": 52.504213,
+    "id": 8010403
+  },
+  {
+    "name": "Bernau(b Berlin)",
+    "lon": 13.592643,
+    "lat": 52.675565,
+    "id": 8013470
+  },
+  {
+    "name": "Berlin Ostkreuz",
+    "lon": 13.469104,
+    "lat": 52.503035,
+    "id": 8011162
+  },
+  {
+    "name": "Berlin Wannsee",
+    "lon": 13.179526,
+    "lat": 52.420973,
+    "id": 8010405
+  },
+  {
+    "name": "Berlin-Lichtenberg",
+    "lon": 13.496692,
+    "lat": 52.510137,
+    "id": 8010036
+  },
+  {
+    "name": "Berchtesgaden Hbf",
+    "lon": 12.999058,
+    "lat": 47.626684,
+    "id": 8000885
+  },
+  {
+    "name": "Bergen auf Rügen",
+    "lon": 13.417821,
+    "lat": 54.420497,
+    "id": 8010033
+  },
+  {
+    "name": "Doberlug-Kirchhain",
+    "lon": 13.564237,
+    "lat": 51.620573,
+    "id": 8010079
+  },
+  {
+    "name": "Bamberg",
+    "lon": 10.899493,
+    "lat": 49.900757,
+    "id": 8000025
+  },
+  {
+    "name": "Bondorf(b Herrenberg)",
+    "lon": 8.827659,
+    "lat": 48.523556,
+    "id": 8001080
+  },
+  {
+    "name": "Bern",
+    "lon": 7.439131,
+    "lat": 46.948834,
+    "id": 8507000
+  },
+  {
+    "name": "Biberach(Riß)",
+    "lon": 9.793127,
+    "lat": 48.101845,
+    "id": 8000943
+  },
+  {
+    "name": "Bonn-Bad Godesberg",
+    "lon": 7.159558,
+    "lat": 50.683924,
+    "id": 8001082
+  },
+  {
+    "name": "Bad Reichenhall-Kirchberg",
+    "lon": 12.874,
+    "lat": 47.718536,
+    "id": 8000738
+  },
+  {
+    "name": "Bromberg/Bydgoszcz",
+    "lon": 17.99164,
+    "lat": 53.135112,
+    "id": 5100005
+  }
+]

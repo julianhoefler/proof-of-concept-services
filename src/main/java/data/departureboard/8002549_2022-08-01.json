@@ -1,0 +1,397 @@
+[
+  {
+    "name": "ICE 1271",
+    "type": "ICE",
+    "boardId": 8002549,
+    "stopId": 8002549,
+    "stopName": "Hamburg Hbf",
+    "dateTime": "2022-08-01T00:25",
+    "track": "14",
+    "detailsId": "187116%2F66517%2F17438%2F53653%2F80%3fstation_evaId%3D8002549"
+  },
+  {
+    "name": "ICE 591",
+    "type": "ICE",
+    "boardId": 8002549,
+    "stopId": 8002549,
+    "stopName": "Hamburg Hbf",
+    "dateTime": "2022-08-01T03:20",
+    "track": "14",
+    "detailsId": "820896%2F276258%2F39730%2F253767%2F80%3fstation_evaId%3D8002549"
+  },
+  {
+    "name": "ICE 781",
+    "type": "ICE",
+    "boardId": 8002549,
+    "stopId": 8002549,
+    "stopName": "Hamburg Hbf",
+    "dateTime": "2022-08-01T03:39",
+    "track": "14",
+    "detailsId": "100380%2F36771%2F271218%2F102149%2F80%3fstation_evaId%3D8002549"
+  },
+  {
+    "name": "EC 7",
+    "type": "EC",
+    "boardId": 8002549,
+    "stopId": 8002549,
+    "stopName": "Hamburg Hbf",
+    "dateTime": "2022-08-01T04:37",
+    "track": "14",
+    "detailsId": "734838%2F249953%2F699506%2F104807%2F80%3fstation_evaId%3D8002549"
+  },
+  {
+    "name": "ICE 571",
+    "type": "ICE",
+    "boardId": 8002549,
+    "stopId": 8002549,
+    "stopName": "Hamburg Hbf",
+    "dateTime": "2022-08-01T04:50",
+    "track": "14",
+    "detailsId": "751599%2F253040%2F555320%2F27127%2F80%3fstation_evaId%3D8002549"
+  },
+  {
+    "name": "ICE 581",
+    "type": "ICE",
+    "boardId": 8002549,
+    "stopId": 8002549,
+    "stopName": "Hamburg Hbf",
+    "dateTime": "2022-08-01T04:54",
+    "track": "14",
+    "detailsId": "852270%2F286656%2F82534%2F242823%2F80%3fstation_evaId%3D8002549"
+  },
+  {
+    "name": "ICE 783",
+    "type": "ICE",
+    "boardId": 8002549,
+    "stopId": 8002549,
+    "stopName": "Hamburg Hbf",
+    "dateTime": "2022-08-01T05:26",
+    "track": "14",
+    "detailsId": "756936%2F255637%2F873502%2F184439%2F80%3fstation_evaId%3D8002549"
+  },
+  {
+    "name": "ICE 701",
+    "type": "ICE",
+    "boardId": 8002549,
+    "stopId": 8002549,
+    "stopName": "Hamburg Hbf",
+    "dateTime": "2022-08-01T05:27",
+    "track": "5",
+    "detailsId": "517788%2F175683%2F188276%2F78458%2F80%3fstation_evaId%3D8002549"
+  },
+  {
+    "name": "ICE 515",
+    "type": "ICE",
+    "boardId": 8002549,
+    "stopId": 8002549,
+    "stopName": "Hamburg Hbf",
+    "dateTime": "2022-08-01T05:46",
+    "track": "14",
+    "detailsId": "309168%2F105339%2F27420%2F89346%2F80%3fstation_evaId%3D8002549"
+  },
+  {
+    "name": "ICE 1003",
+    "type": "ICE",
+    "boardId": 8002549,
+    "stopId": 8002549,
+    "stopName": "Hamburg Hbf",
+    "dateTime": "2022-08-01T05:52",
+    "track": "12",
+    "detailsId": "901902%2F300917%2F646730%2F22731%2F80%3fstation_evaId%3D8002549"
+  },
+  {
+    "name": "ICE 71",
+    "type": "ICE",
+    "boardId": 8002549,
+    "stopId": 8002549,
+    "stopName": "Hamburg Hbf",
+    "dateTime": "2022-08-01T05:54",
+    "track": "14",
+    "detailsId": "615753%2F210286%2F113716%2F148393%2F80%3fstation_evaId%3D8002549"
+  },
+  {
+    "name": "ICE 1031",
+    "type": "ICE",
+    "boardId": 8002549,
+    "stopId": 8002549,
+    "stopName": "Hamburg Hbf",
+    "dateTime": "2022-08-01T06:11",
+    "track": "13",
+    "detailsId": "657072%2F219451%2F8606%2F214721%2F80%3fstation_evaId%3D8002549"
+  },
+  {
+    "name": "ICE 583",
+    "type": "ICE",
+    "boardId": 8002549,
+    "stopId": 8002549,
+    "stopName": "Hamburg Hbf",
+    "dateTime": "2022-08-01T06:26",
+    "track": "14",
+    "detailsId": "225975%2F77905%2F633078%2F241214%2F80%3fstation_evaId%3D8002549"
+  },
+  {
+    "name": "ICE 505",
+    "type": "ICE",
+    "boardId": 8002549,
+    "stopId": 8002549,
+    "stopName": "Hamburg Hbf",
+    "dateTime": "2022-08-01T06:34",
+    "track": "8",
+    "detailsId": "377598%2F128074%2F235468%2F8132%2F80%3fstation_evaId%3D8002549"
+  },
+  {
+    "name": "IC 2414",
+    "type": "IC",
+    "boardId": 8002549,
+    "stopId": 8002549,
+    "stopName": "Hamburg Hbf",
+    "dateTime": "2022-08-01T06:46",
+    "detailsId": "257742%2F87813%2F696898%2F262535%2F80%3fstation_evaId%3D8002549"
+  },
+  {
+    "name": "EC 9",
+    "type": "EC",
+    "boardId": 8002549,
+    "stopId": 8002549,
+    "stopName": "Hamburg Hbf",
+    "dateTime": "2022-08-01T06:46",
+    "track": "14",
+    "detailsId": "388443%2F134645%2F300712%2F20875%2F80%3fstation_evaId%3D8002549"
+  },
+  {
+    "name": "EC 173",
+    "type": "EC",
+    "boardId": 8002549,
+    "stopId": 8002549,
+    "stopName": "Hamburg Hbf",
+    "dateTime": "2022-08-01T06:48",
+    "track": "8",
+    "detailsId": "68382%2F27033%2F807196%2F380804%2F80%3fstation_evaId%3D8002549"
+  },
+  {
+    "name": "ICE 573",
+    "type": "ICE",
+    "boardId": 8002549,
+    "stopId": 8002549,
+    "stopName": "Hamburg Hbf",
+    "dateTime": "2022-08-01T07:01",
+    "track": "14",
+    "detailsId": "543135%2F183562%2F141394%2F110348%2F80%3fstation_evaId%3D8002549"
+  },
+  {
+    "name": "ICE 785",
+    "type": "ICE",
+    "boardId": 8002549,
+    "stopId": 8002549,
+    "stopName": "Hamburg Hbf",
+    "dateTime": "2022-08-01T07:29",
+    "detailsId": "615249%2F208419%2F882614%2F236224%2F80%3fstation_evaId%3D8002549"
+  },
+  {
+    "name": "ICE 703",
+    "type": "ICE",
+    "boardId": 8002549,
+    "stopId": 8002549,
+    "stopName": "Hamburg Hbf",
+    "dateTime": "2022-08-01T07:36",
+    "track": "5",
+    "detailsId": "754998%2F254769%2F915126%2F205897%2F80%3fstation_evaId%3D8002549"
+  },
+  {
+    "name": "ICE 1678",
+    "type": "ICE",
+    "boardId": 8002549,
+    "stopId": 8002549,
+    "stopName": "Hamburg Hbf",
+    "dateTime": "2022-08-01T07:41",
+    "track": "8",
+    "detailsId": "905958%2F303030%2F300070%2F151951%2F80%3fstation_evaId%3D8002549"
+  },
+  {
+    "name": "ICE 517",
+    "type": "ICE",
+    "boardId": 8002549,
+    "stopId": 8002549,
+    "stopName": "Hamburg Hbf",
+    "dateTime": "2022-08-01T07:46",
+    "track": "14",
+    "detailsId": "838998%2F281949%2F740636%2F90653%2F80%3fstation_evaId%3D8002549"
+  },
+  {
+    "name": "ICE 73",
+    "type": "ICE",
+    "boardId": 8002549,
+    "stopId": 8002549,
+    "stopName": "Hamburg Hbf",
+    "dateTime": "2022-08-01T08:02",
+    "track": "14",
+    "detailsId": "768849%2F261350%2F585964%2F36699%2F80%3fstation_evaId%3D8002549"
+  },
+  {
+    "name": "ICE 1093",
+    "type": "ICE",
+    "boardId": 8002549,
+    "stopId": 8002549,
+    "stopName": "Hamburg Hbf",
+    "dateTime": "2022-08-01T08:04",
+    "detailsId": "607623%2F203072%2F121654%2F141714%2F80%3fstation_evaId%3D8002549"
+  },
+  {
+    "name": "ICE 93",
+    "type": "ICE",
+    "boardId": 8002549,
+    "stopId": 8002549,
+    "stopName": "Hamburg Hbf",
+    "dateTime": "2022-08-01T08:04",
+    "track": "8",
+    "detailsId": "295536%2F103712%2F223728%2F13352%2F80%3fstation_evaId%3D8002549"
+  },
+  {
+    "name": "ICE 535",
+    "type": "ICE",
+    "boardId": 8002549,
+    "stopId": 8002549,
+    "stopName": "Hamburg Hbf",
+    "dateTime": "2022-08-01T08:28",
+    "track": "8",
+    "detailsId": "8583%2F5257%2F388172%2F191225%2F80%3fstation_evaId%3D8002549"
+  },
+  {
+    "name": "ICE 585",
+    "type": "ICE",
+    "boardId": 8002549,
+    "stopId": 8002549,
+    "stopName": "Hamburg Hbf",
+    "dateTime": "2022-08-01T08:28",
+    "track": "8",
+    "detailsId": "748083%2F251959%2F285706%2F106508%2F80%3fstation_evaId%3D8002549"
+  },
+  {
+    "name": "ICE 507",
+    "type": "ICE",
+    "boardId": 8002549,
+    "stopId": 8002549,
+    "stopName": "Hamburg Hbf",
+    "dateTime": "2022-08-01T08:34",
+    "track": "8",
+    "detailsId": "159054%2F55239%2F3924%2F51056%2F80%3fstation_evaId%3D8002549"
+  },
+  {
+    "name": "ICE 713",
+    "type": "ICE",
+    "boardId": 8002549,
+    "stopId": 8002549,
+    "stopName": "Hamburg Hbf",
+    "dateTime": "2022-08-01T08:46",
+    "track": "14",
+    "detailsId": "189078%2F66192%2F761266%2F317607%2F80%3fstation_evaId%3D8002549"
+  },
+  {
+    "name": "EC 379",
+    "type": "EC",
+    "boardId": 8002549,
+    "stopId": 8002549,
+    "stopName": "Hamburg Hbf",
+    "dateTime": "2022-08-01T08:51",
+    "track": "5",
+    "detailsId": "994878%2F336214%2F622660%2F20296%2F80%3fstation_evaId%3D8002549"
+  },
+  {
+    "name": "IC 1186",
+    "type": "IC",
+    "boardId": 8002549,
+    "stopId": 8002549,
+    "stopName": "Hamburg Hbf",
+    "dateTime": "2022-08-01T08:56",
+    "detailsId": "698760%2F236973%2F136994%2F164423%2F80%3fstation_evaId%3D8002549"
+  },
+  {
+    "name": "ICE 575",
+    "type": "ICE",
+    "boardId": 8002549,
+    "stopId": 8002549,
+    "stopName": "Hamburg Hbf",
+    "dateTime": "2022-08-01T09:01",
+    "track": "14",
+    "detailsId": "816228%2F274609%2F186340%2F178906%2F80%3fstation_evaId%3D8002549"
+  },
+  {
+    "name": "IC 2214",
+    "type": "IC",
+    "boardId": 8002549,
+    "stopId": 8002549,
+    "stopName": "Hamburg Hbf",
+    "dateTime": "2022-08-01T09:19",
+    "track": "11",
+    "detailsId": "116301%2F40406%2F363392%2F142929%2F80%3fstation_evaId%3D8002549"
+  },
+  {
+    "name": "ICE 787",
+    "type": "ICE",
+    "boardId": 8002549,
+    "stopId": 8002549,
+    "stopName": "Hamburg Hbf",
+    "dateTime": "2022-08-01T09:25",
+    "track": "14",
+    "detailsId": "702558%2F237535%2F882164%2F206896%2F80%3fstation_evaId%3D8002549"
+  },
+  {
+    "name": "ICE 705",
+    "type": "ICE",
+    "boardId": 8002549,
+    "stopId": 8002549,
+    "stopName": "Hamburg Hbf",
+    "dateTime": "2022-08-01T09:36",
+    "track": "5",
+    "detailsId": "675324%2F228228%2F247588%2F101314%2F80%3fstation_evaId%3D8002549"
+  },
+  {
+    "name": "ICE 636",
+    "type": "ICE",
+    "boardId": 8002549,
+    "stopId": 8002549,
+    "stopName": "Hamburg Hbf",
+    "dateTime": "2022-08-01T09:43",
+    "detailsId": "811314%2F273332%2F416788%2F62044%2F80%3fstation_evaId%3D8002549"
+  },
+  {
+    "name": "ICE 519",
+    "type": "ICE",
+    "boardId": 8002549,
+    "stopId": 8002549,
+    "stopName": "Hamburg Hbf",
+    "dateTime": "2022-08-01T09:46",
+    "track": "14",
+    "detailsId": "317091%2F107980%2F462486%2F125548%2F80%3fstation_evaId%3D8002549"
+  },
+  {
+    "name": "ICE 75",
+    "type": "ICE",
+    "boardId": 8002549,
+    "stopId": 8002549,
+    "stopName": "Hamburg Hbf",
+    "dateTime": "2022-08-01T10:01",
+    "track": "14",
+    "detailsId": "733089%2F249447%2F420888%2F33919%2F80%3fstation_evaId%3D8002549"
+  },
+  {
+    "name": "ICE 1005",
+    "type": "ICE",
+    "boardId": 8002549,
+    "stopId": 8002549,
+    "stopName": "Hamburg Hbf",
+    "dateTime": "2022-08-01T10:05",
+    "track": "8",
+    "detailsId": "571605%2F190828%2F588944%2F103937%2F80%3fstation_evaId%3D8002549"
+  },
+  {
+    "name": "ICE 618",
+    "type": "ICE",
+    "boardId": 8002549,
+    "stopId": 8002549,
+    "stopName": "Hamburg Hbf",
+    "dateTime": "2022-08-01T10:17",
+    "track": "12",
+    "detailsId": "348867%2F119057%2F912766%2F340094%2F80%3fstation_evaId%3D8002549"
+  }
+]

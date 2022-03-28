@@ -1,0 +1,56 @@
+[
+  {
+    "name": "FRANKFURT(MAIN)",
+    "lon": 8.663785,
+    "lat": 50.107149,
+    "id": 8096021
+  },
+  {
+    "name": "Frankfurt(Main)Hbf",
+    "lon": 8.663785,
+    "lat": 50.107149,
+    "id": 8000105
+  },
+  {
+    "name": "Frankfurt(Main)Flugh",
+    "lon": 8.570972,
+    "lat": 50.05121,
+    "id": 8000281
+  },
+  {
+    "name": "Frankfurt(Main)Süd",
+    "lon": 8.686456,
+    "lat": 50.099365,
+    "id": 8002041
+  },
+  {
+    "name": "Frankfurt am Main Flughafen Fernbahnhof",
+    "lon": 8.570181,
+    "lat": 50.053169,
+    "id": 8070003
+  },
+  {
+    "name": "Frankfurt(Main)West",
+    "lon": 8.639335,
+    "lat": 50.118862,
+    "id": 8002042
+  },
+  {
+    "name": "Frankfurt am Main Flughafen Regiobahnhof",
+    "lon": 8.57125,
+    "lat": 50.051219,
+    "id": 8070004
+  },
+  {
+    "name": "Frankfurt(Oder)",
+    "lon": 14.546497,
+    "lat": 52.33642,
+    "id": 8010113
+  },
+  {
+    "name": "Franzensfeste",
+    "lon": 11.610081,
+    "lat": 46.788719,
+    "id": 8300089
+  }
+]
