@@ -15,7 +15,7 @@ import java.util.stream.Stream;
 @ApplicationScoped
 public class FileNameResolver {
 
-    private static final String BASE_DIRECTORY = "C:\\Users\\JulianHoefler\\Projekte\\eigeneProjekte\\proof-of-concept-services\\src\\main\\java\\data\\";
+    private static final String BASE_DIRECTORY = "C:\\Users\\JulianHoefler\\Projekte\\eigeneProjekte\\proof-of-concept-services\\src\\main\\resources\\data\\";
 
     public String resolvePath(String fileName, String subDirectory) {
         String uri = BASE_DIRECTORY + subDirectory + "\\" + withSuffix(fileName);
