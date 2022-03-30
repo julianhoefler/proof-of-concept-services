@@ -40,7 +40,6 @@ public class AppLifecycleBean {
 
     void onStart(@Observes StartupEvent ev) {
         LOGGER.info("onStart Method has been triggered");
-//        fileLoader.loadData();
         loadLocationIds();
         departureBoardRepository.getDepartureBoardMap();
         journeyDetailsRepository.getJourneyDetailsMap();
