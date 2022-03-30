@@ -28,8 +28,8 @@ public class UmstiegsChecker {
         for (Integer stopId : stopIdList) {
             List<JourneyDetails> journeyDetailsList = getJourneyDetailsListFromStopId(stopId, date, type);
 
-            for (int j = 0; j < journeyDetailsList.size(); j++) {
-                List<List<JourneyDetails>> verbindung = getVerbindungWhenStopIdEqualsAnkunft(journeyDetailsList, locationIdAbfahrt, locationIdAnkunft, date, type, stopId, j);
+            for (int index = 0; index < journeyDetailsList.size(); index++) {
+                List<List<JourneyDetails>> verbindung = getVerbindungWhenStopIdEqualsAnkunft(journeyDetailsList, locationIdAbfahrt, locationIdAnkunft, date, type, stopId, index);
 
                 if (verbindung != null) {
                     return verbindung;

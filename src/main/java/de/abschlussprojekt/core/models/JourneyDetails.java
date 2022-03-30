@@ -10,6 +10,9 @@ import java.util.List;
 @JsonInclude(JsonInclude.Include.NON_NULL)
 public class JourneyDetails {
 
+    @JsonProperty("id")
+    String id;
+
     @JsonProperty("stopId")
     Integer stopdId;
 
