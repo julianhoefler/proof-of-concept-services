@@ -1,0 +1,5093 @@
+[
+  {
+    "stopId": 8010255,
+    "stopName": "Berlin Ostbahnhof",
+    "lat": "52.510487",
+    "lon": "13.434684",
+    "depTime": "20:18",
+    "train": "ICE 879",
+    "type": "ICE",
+    "operator": "DB",
+    "notes": [
+      {
+        "key": "PF",
+        "priority": "200",
+        "text": "Please wear an FFP2 mask. You are legally required to do so"
+      },
+      {
+        "key": "CK",
+        "priority": "200",
+        "text": "Komfort Check-in possible (visit bahn.de/kci for more information)"
+      },
+      {
+        "key": "3G",
+        "priority": "205",
+        "text": "Nationwide «3G» rule applies on trains: valid proof must be presented"
+      },
+      {
+        "key": "FK",
+        "priority": "260",
+        "text": "Number of bicycles conveyed limited"
+      },
+      {
+        "key": "FR",
+        "priority": "260",
+        "text": "Bicycles conveyed - subject to reservation"
+      },
+      {
+        "key": "BR",
+        "priority": "450",
+        "text": "Bordrestaurant"
+      },
+      {
+        "key": "EH",
+        "priority": "560",
+        "text": "vehicle-mounted access aid"
+      }
+    ]
+  },
+  {
+    "stopId": 8011160,
+    "stopName": "Berlin Hbf",
+    "lat": "52.525589",
+    "lon": "13.369549",
+    "arrTime": "20:26",
+    "depTime": "20:30",
+    "train": "ICE 879",
+    "type": "ICE",
+    "operator": "DB",
+    "notes": [
+      {
+        "key": "PF",
+        "priority": "200",
+        "text": "Please wear an FFP2 mask. You are legally required to do so"
+      },
+      {
+        "key": "CK",
+        "priority": "200",
+        "text": "Komfort Check-in possible (visit bahn.de/kci for more information)"
+      },
+      {
+        "key": "3G",
+        "priority": "205",
+        "text": "Nationwide «3G» rule applies on trains: valid proof must be presented"
+      },
+      {
+        "key": "FK",
+        "priority": "260",
+        "text": "Number of bicycles conveyed limited"
+      },
+      {
+        "key": "FR",
+        "priority": "260",
+        "text": "Bicycles conveyed - subject to reservation"
+      },
+      {
+        "key": "BR",
+        "priority": "450",
+        "text": "Bordrestaurant"
+      },
+      {
+        "key": "EH",
+        "priority": "560",
+        "text": "vehicle-mounted access aid"
+      }
+    ]
+  },
+  {
+    "stopId": 8010404,
+    "stopName": "Berlin-Spandau",
+    "lat": "52.534650",
+    "lon": "13.196902",
+    "arrTime": "20:43",
+    "depTime": "20:45",
+    "train": "ICE 879",
+    "type": "ICE",
+    "operator": "DB",
+    "notes": [
+      {
+        "key": "PF",
+        "priority": "200",
+        "text": "Please wear an FFP2 mask. You are legally required to do so"
+      },
+      {
+        "key": "CK",
+        "priority": "200",
+        "text": "Komfort Check-in possible (visit bahn.de/kci for more information)"
+      },
+      {
+        "key": "3G",
+        "priority": "205",
+        "text": "Nationwide «3G» rule applies on trains: valid proof must be presented"
+      },
+      {
+        "key": "FK",
+        "priority": "260",
+        "text": "Number of bicycles conveyed limited"
+      },
+      {
+        "key": "FR",
+        "priority": "260",
+        "text": "Bicycles conveyed - subject to reservation"
+      },
+      {
+        "key": "BR",
+        "priority": "450",
+        "text": "Bordrestaurant"
+      },
+      {
+        "key": "EH",
+        "priority": "560",
+        "text": "vehicle-mounted access aid"
+      }
+    ]
+  },
+  {
+    "stopId": 8006552,
+    "stopName": "Wolfsburg Hbf",
+    "lat": "52.429495",
+    "lon": "10.787784",
+    "arrTime": "21:37",
+    "depTime": "21:38",
+    "train": "ICE 879",
+    "type": "ICE",
+    "operator": "DB",
+    "notes": [
+      {
+        "key": "PF",
+        "priority": "200",
+        "text": "Please wear an FFP2 mask. You are legally required to do so"
+      },
+      {
+        "key": "CK",
+        "priority": "200",
+        "text": "Komfort Check-in possible (visit bahn.de/kci for more information)"
+      },
+      {
+        "key": "3G",
+        "priority": "205",
+        "text": "Nationwide «3G» rule applies on trains: valid proof must be presented"
+      },
+      {
+        "key": "FK",
+        "priority": "260",
+        "text": "Number of bicycles conveyed limited"
+      },
+      {
+        "key": "FR",
+        "priority": "260",
+        "text": "Bicycles conveyed - subject to reservation"
+      },
+      {
+        "key": "BR",
+        "priority": "450",
+        "text": "Bordrestaurant"
+      },
+      {
+        "key": "EH",
+        "priority": "560",
+        "text": "vehicle-mounted access aid"
+      }
+    ]
+  },
+  {
+    "stopId": 8000049,
+    "stopName": "Braunschweig Hbf",
+    "lat": "52.252218",
+    "lon": "10.540293",
+    "arrTime": "21:55",
+    "depTime": "21:57",
+    "train": "ICE 879",
+    "type": "ICE",
+    "operator": "DB",
+    "notes": [
+      {
+        "key": "PF",
+        "priority": "200",
+        "text": "Please wear an FFP2 mask. You are legally required to do so"
+      },
+      {
+        "key": "CK",
+        "priority": "200",
+        "text": "Komfort Check-in possible (visit bahn.de/kci for more information)"
+      },
+      {
+        "key": "3G",
+        "priority": "205",
+        "text": "Nationwide «3G» rule applies on trains: valid proof must be presented"
+      },
+      {
+        "key": "FK",
+        "priority": "260",
+        "text": "Number of bicycles conveyed limited"
+      },
+      {
+        "key": "FR",
+        "priority": "260",
+        "text": "Bicycles conveyed - subject to reservation"
+      },
+      {
+        "key": "BR",
+        "priority": "450",
+        "text": "Bordrestaurant"
+      },
+      {
+        "key": "EH",
+        "priority": "560",
+        "text": "vehicle-mounted access aid"
+      }
+    ]
+  },
+  {
+    "stopId": 8000169,
+    "stopName": "Hildesheim Hbf",
+    "lat": "52.160627",
+    "lon": "9.953495",
+    "arrTime": "22:18",
+    "depTime": "22:19",
+    "train": "ICE 879",
+    "type": "ICE",
+    "operator": "DB",
+    "notes": [
+      {
+        "key": "PF",
+        "priority": "200",
+        "text": "Please wear an FFP2 mask. You are legally required to do so"
+      },
+      {
+        "key": "CK",
+        "priority": "200",
+        "text": "Komfort Check-in possible (visit bahn.de/kci for more information)"
+      },
+      {
+        "key": "3G",
+        "priority": "205",
+        "text": "Nationwide «3G» rule applies on trains: valid proof must be presented"
+      },
+      {
+        "key": "FK",
+        "priority": "260",
+        "text": "Number of bicycles conveyed limited"
+      },
+      {
+        "key": "FR",
+        "priority": "260",
+        "text": "Bicycles conveyed - subject to reservation"
+      },
+      {
+        "key": "BR",
+        "priority": "450",
+        "text": "Bordrestaurant"
+      },
+      {
+        "key": "EH",
+        "priority": "560",
+        "text": "vehicle-mounted access aid"
+      }
+    ]
+  },
+  {
+    "stopId": 8000128,
+    "stopName": "Göttingen",
+    "lat": "51.536812",
+    "lon": "9.926069",
+    "arrTime": "22:50",
+    "depTime": "22:52",
+    "train": "ICE 879",
+    "type": "ICE",
+    "operator": "DB",
+    "notes": [
+      {
+        "key": "PF",
+        "priority": "200",
+        "text": "Please wear an FFP2 mask. You are legally required to do so"
+      },
+      {
+        "key": "CK",
+        "priority": "200",
+        "text": "Komfort Check-in possible (visit bahn.de/kci for more information)"
+      },
+      {
+        "key": "3G",
+        "priority": "205",
+        "text": "Nationwide «3G» rule applies on trains: valid proof must be presented"
+      },
+      {
+        "key": "FK",
+        "priority": "260",
+        "text": "Number of bicycles conveyed limited"
+      },
+      {
+        "key": "FR",
+        "priority": "260",
+        "text": "Bicycles conveyed - subject to reservation"
+      },
+      {
+        "key": "BR",
+        "priority": "450",
+        "text": "Bordrestaurant"
+      },
+      {
+        "key": "EH",
+        "priority": "560",
+        "text": "vehicle-mounted access aid"
+      }
+    ]
+  },
+  {
+    "stopId": 8003200,
+    "stopName": "Kassel-Wilhelmshöhe",
+    "lat": "51.313115",
+    "lon": "9.446899",
+    "arrTime": "23:12",
+    "depTime": "23:14",
+    "train": "ICE 879",
+    "type": "ICE",
+    "operator": "DB",
+    "notes": [
+      {
+        "key": "PF",
+        "priority": "200",
+        "text": "Please wear an FFP2 mask. You are legally required to do so"
+      },
+      {
+        "key": "CK",
+        "priority": "200",
+        "text": "Komfort Check-in possible (visit bahn.de/kci for more information)"
+      },
+      {
+        "key": "3G",
+        "priority": "205",
+        "text": "Nationwide «3G» rule applies on trains: valid proof must be presented"
+      },
+      {
+        "key": "FK",
+        "priority": "260",
+        "text": "Number of bicycles conveyed limited"
+      },
+      {
+        "key": "FR",
+        "priority": "260",
+        "text": "Bicycles conveyed - subject to reservation"
+      },
+      {
+        "key": "BR",
+        "priority": "450",
+        "text": "Bordrestaurant"
+      },
+      {
+        "key": "EH",
+        "priority": "560",
+        "text": "vehicle-mounted access aid"
+      }
+    ]
+  },
+  {
+    "stopId": 8000115,
+    "stopName": "Fulda",
+    "lat": "50.554722",
+    "lon": "9.683980",
+    "arrTime": "23:45",
+    "depTime": "23:47",
+    "train": "ICE 879",
+    "type": "ICE",
+    "operator": "DB",
+    "notes": [
+      {
+        "key": "PF",
+        "priority": "200",
+        "text": "Please wear an FFP2 mask. You are legally required to do so"
+      },
+      {
+        "key": "CK",
+        "priority": "200",
+        "text": "Komfort Check-in possible (visit bahn.de/kci for more information)"
+      },
+      {
+        "key": "3G",
+        "priority": "205",
+        "text": "Nationwide «3G» rule applies on trains: valid proof must be presented"
+      },
+      {
+        "key": "FK",
+        "priority": "260",
+        "text": "Number of bicycles conveyed limited"
+      },
+      {
+        "key": "FR",
+        "priority": "260",
+        "text": "Bicycles conveyed - subject to reservation"
+      },
+      {
+        "key": "BR",
+        "priority": "450",
+        "text": "Bordrestaurant"
+      },
+      {
+        "key": "EH",
+        "priority": "560",
+        "text": "vehicle-mounted access aid"
+      }
+    ]
+  },
+  {
+    "stopId": 8000150,
+    "stopName": "Hanau Hbf",
+    "lat": "50.120957",
+    "lon": "8.929003",
+    "arrTime": "00:26",
+    "depTime": "00:28",
+    "train": "ICE 879",
+    "type": "ICE",
+    "operator": "DB",
+    "notes": [
+      {
+        "key": "PF",
+        "priority": "200",
+        "text": "Please wear an FFP2 mask. You are legally required to do so"
+      },
+      {
+        "key": "CK",
+        "priority": "200",
+        "text": "Komfort Check-in possible (visit bahn.de/kci for more information)"
+      },
+      {
+        "key": "3G",
+        "priority": "205",
+        "text": "Nationwide «3G» rule applies on trains: valid proof must be presented"
+      },
+      {
+        "key": "FK",
+        "priority": "260",
+        "text": "Number of bicycles conveyed limited"
+      },
+      {
+        "key": "FR",
+        "priority": "260",
+        "text": "Bicycles conveyed - subject to reservation"
+      },
+      {
+        "key": "BR",
+        "priority": "450",
+        "text": "Bordrestaurant"
+      },
+      {
+        "key": "EH",
+        "priority": "560",
+        "text": "vehicle-mounted access aid"
+      }
+    ]
+  },
+  {
+    "stopId": 8000105,
+    "stopName": "Frankfurt&#x0028;Main&#x0029;Hbf",
+    "lat": "50.107149",
+    "lon": "8.663785",
+    "arrTime": "00:44",
+    "depTime": "00:50",
+    "train": "ICE 879",
+    "type": "ICE",
+    "operator": "DB",
+    "notes": [
+      {
+        "key": "PF",
+        "priority": "200",
+        "text": "Please wear an FFP2 mask. You are legally required to do so"
+      },
+      {
+        "key": "CK",
+        "priority": "200",
+        "text": "Komfort Check-in possible (visit bahn.de/kci for more information)"
+      },
+      {
+        "key": "3G",
+        "priority": "205",
+        "text": "Nationwide «3G» rule applies on trains: valid proof must be presented"
+      },
+      {
+        "key": "FK",
+        "priority": "260",
+        "text": "Number of bicycles conveyed limited"
+      },
+      {
+        "key": "FR",
+        "priority": "260",
+        "text": "Bicycles conveyed - subject to reservation"
+      },
+      {
+        "key": "BR",
+        "priority": "450",
+        "text": "Bordrestaurant"
+      },
+      {
+        "key": "EH",
+        "priority": "560",
+        "text": "vehicle-mounted access aid"
+      }
+    ]
+  },
+  {
+    "stopId": 8000244,
+    "stopName": "Mannheim Hbf",
+    "lat": "49.479352",
+    "lon": "8.468917",
+    "arrTime": "01:27",
+    "depTime": "01:30",
+    "train": "ICE 879",
+    "type": "ICE",
+    "operator": "DB",
+    "notes": [
+      {
+        "key": "PF",
+        "priority": "200",
+        "text": "Please wear an FFP2 mask. You are legally required to do so"
+      },
+      {
+        "key": "CK",
+        "priority": "200",
+        "text": "Komfort Check-in possible (visit bahn.de/kci for more information)"
+      },
+      {
+        "key": "3G",
+        "priority": "205",
+        "text": "Nationwide «3G» rule applies on trains: valid proof must be presented"
+      },
+      {
+        "key": "FK",
+        "priority": "260",
+        "text": "Number of bicycles conveyed limited"
+      },
+      {
+        "key": "FR",
+        "priority": "260",
+        "text": "Bicycles conveyed - subject to reservation"
+      },
+      {
+        "key": "EH",
+        "priority": "560",
+        "text": "vehicle-mounted access aid"
+      }
+    ]
+  },
+  {
+    "stopId": 8000191,
+    "stopName": "Karlsruhe Hbf",
+    "lat": "48.993512",
+    "lon": "8.402181",
+    "arrTime": "01:54",
+    "train": "ICE 879",
+    "type": "ICE",
+    "operator": "DB",
+    "notes": [
+      {
+        "key": "PF",
+        "priority": "200",
+        "text": "Please wear an FFP2 mask. You are legally required to do so"
+      },
+      {
+        "key": "CK",
+        "priority": "200",
+        "text": "Komfort Check-in possible (visit bahn.de/kci for more information)"
+      },
+      {
+        "key": "3G",
+        "priority": "205",
+        "text": "Nationwide «3G» rule applies on trains: valid proof must be presented"
+      },
+      {
+        "key": "FK",
+        "priority": "260",
+        "text": "Number of bicycles conveyed limited"
+      },
+      {
+        "key": "FR",
+        "priority": "260",
+        "text": "Bicycles conveyed - subject to reservation"
+      },
+      {
+        "key": "EH",
+        "priority": "560",
+        "text": "vehicle-mounted access aid"
+      }
+    ]
+  },
+  {
+    "stopId": 8000096,
+    "stopName": "Stuttgart Hbf",
+    "lat": "48.784081",
+    "lon": "9.181636",
+    "depTime": "06:50",
+    "train": "ICE 694",
+    "type": "ICE",
+    "operator": "DB",
+    "notes": [
+      {
+        "key": "PF",
+        "priority": "200",
+        "text": "Please wear an FFP2 mask. You are legally required to do so"
+      },
+      {
+        "key": "CK",
+        "priority": "200",
+        "text": "Komfort Check-in possible (visit bahn.de/kci for more information)"
+      },
+      {
+        "key": "3G",
+        "priority": "205",
+        "text": "Nationwide «3G» rule applies on trains: valid proof must be presented"
+      },
+      {
+        "key": "FK",
+        "priority": "260",
+        "text": "Number of bicycles conveyed limited"
+      },
+      {
+        "key": "FR",
+        "priority": "260",
+        "text": "Bicycles conveyed - subject to reservation"
+      },
+      {
+        "key": "BR",
+        "priority": "450",
+        "text": "Bordrestaurant"
+      },
+      {
+        "key": "EH",
+        "priority": "560",
+        "text": "vehicle-mounted access aid"
+      }
+    ]
+  },
+  {
+    "stopId": 8000244,
+    "stopName": "Mannheim Hbf",
+    "lat": "49.479352",
+    "lon": "8.468917",
+    "arrTime": "07:29",
+    "depTime": "07:32",
+    "train": "ICE 694",
+    "type": "ICE",
+    "operator": "DB",
+    "notes": [
+      {
+        "key": "PF",
+        "priority": "200",
+        "text": "Please wear an FFP2 mask. You are legally required to do so"
+      },
+      {
+        "key": "CK",
+        "priority": "200",
+        "text": "Komfort Check-in possible (visit bahn.de/kci for more information)"
+      },
+      {
+        "key": "3G",
+        "priority": "205",
+        "text": "Nationwide «3G» rule applies on trains: valid proof must be presented"
+      },
+      {
+        "key": "FK",
+        "priority": "260",
+        "text": "Number of bicycles conveyed limited"
+      },
+      {
+        "key": "FR",
+        "priority": "260",
+        "text": "Bicycles conveyed - subject to reservation"
+      },
+      {
+        "key": "BR",
+        "priority": "450",
+        "text": "Bordrestaurant"
+      },
+      {
+        "key": "EH",
+        "priority": "560",
+        "text": "vehicle-mounted access aid"
+      }
+    ]
+  },
+  {
+    "stopId": 8000105,
+    "stopName": "Frankfurt&#x0028;Main&#x0029;Hbf",
+    "lat": "50.107149",
+    "lon": "8.663785",
+    "arrTime": "08:08",
+    "depTime": "08:14",
+    "train": "ICE 694",
+    "type": "ICE",
+    "operator": "DB",
+    "notes": [
+      {
+        "key": "PF",
+        "priority": "200",
+        "text": "Please wear an FFP2 mask. You are legally required to do so"
+      },
+      {
+        "key": "CK",
+        "priority": "200",
+        "text": "Komfort Check-in possible (visit bahn.de/kci for more information)"
+      },
+      {
+        "key": "3G",
+        "priority": "205",
+        "text": "Nationwide «3G» rule applies on trains: valid proof must be presented"
+      },
+      {
+        "key": "FK",
+        "priority": "260",
+        "text": "Number of bicycles conveyed limited"
+      },
+      {
+        "key": "FR",
+        "priority": "260",
+        "text": "Bicycles conveyed - subject to reservation"
+      },
+      {
+        "key": "BR",
+        "priority": "450",
+        "text": "Bordrestaurant"
+      },
+      {
+        "key": "EH",
+        "priority": "560",
+        "text": "vehicle-mounted access aid"
+      }
+    ]
+  },
+  {
+    "stopId": 8000115,
+    "stopName": "Fulda",
+    "lat": "50.554722",
+    "lon": "9.683980",
+    "arrTime": "09:07",
+    "depTime": "09:09",
+    "train": "ICE 694",
+    "type": "ICE",
+    "operator": "DB",
+    "notes": [
+      {
+        "key": "PF",
+        "priority": "200",
+        "text": "Please wear an FFP2 mask. You are legally required to do so"
+      },
+      {
+        "key": "CK",
+        "priority": "200",
+        "text": "Komfort Check-in possible (visit bahn.de/kci for more information)"
+      },
+      {
+        "key": "3G",
+        "priority": "205",
+        "text": "Nationwide «3G» rule applies on trains: valid proof must be presented"
+      },
+      {
+        "key": "FK",
+        "priority": "260",
+        "text": "Number of bicycles conveyed limited"
+      },
+      {
+        "key": "FR",
+        "priority": "260",
+        "text": "Bicycles conveyed - subject to reservation"
+      },
+      {
+        "key": "BR",
+        "priority": "450",
+        "text": "Bordrestaurant"
+      },
+      {
+        "key": "EH",
+        "priority": "560",
+        "text": "vehicle-mounted access aid"
+      }
+    ]
+  },
+  {
+    "stopId": 8010097,
+    "stopName": "Eisenach",
+    "lat": "50.976919",
+    "lon": "10.331986",
+    "arrTime": "10:00",
+    "depTime": "10:01",
+    "train": "ICE 694",
+    "type": "ICE",
+    "operator": "DB",
+    "notes": [
+      {
+        "key": "PF",
+        "priority": "200",
+        "text": "Please wear an FFP2 mask. You are legally required to do so"
+      },
+      {
+        "key": "CK",
+        "priority": "200",
+        "text": "Komfort Check-in possible (visit bahn.de/kci for more information)"
+      },
+      {
+        "key": "3G",
+        "priority": "205",
+        "text": "Nationwide «3G» rule applies on trains: valid proof must be presented"
+      },
+      {
+        "key": "FK",
+        "priority": "260",
+        "text": "Number of bicycles conveyed limited"
+      },
+      {
+        "key": "FR",
+        "priority": "260",
+        "text": "Bicycles conveyed - subject to reservation"
+      },
+      {
+        "key": "BR",
+        "priority": "450",
+        "text": "Bordrestaurant"
+      },
+      {
+        "key": "EH",
+        "priority": "560",
+        "text": "vehicle-mounted access aid"
+      }
+    ]
+  },
+  {
+    "stopId": 8010101,
+    "stopName": "Erfurt Hbf",
+    "lat": "50.972550",
+    "lon": "11.038502",
+    "arrTime": "10:26",
+    "depTime": "10:28",
+    "train": "ICE 694",
+    "type": "ICE",
+    "operator": "DB",
+    "notes": [
+      {
+        "key": "PF",
+        "priority": "200",
+        "text": "Please wear an FFP2 mask. You are legally required to do so"
+      },
+      {
+        "key": "CK",
+        "priority": "200",
+        "text": "Komfort Check-in possible (visit bahn.de/kci for more information)"
+      },
+      {
+        "key": "3G",
+        "priority": "205",
+        "text": "Nationwide «3G» rule applies on trains: valid proof must be presented"
+      },
+      {
+        "key": "FK",
+        "priority": "260",
+        "text": "Number of bicycles conveyed limited"
+      },
+      {
+        "key": "FR",
+        "priority": "260",
+        "text": "Bicycles conveyed - subject to reservation"
+      },
+      {
+        "key": "BR",
+        "priority": "450",
+        "text": "Bordrestaurant"
+      },
+      {
+        "key": "EH",
+        "priority": "560",
+        "text": "vehicle-mounted access aid"
+      }
+    ]
+  },
+  {
+    "stopId": 8010205,
+    "stopName": "Leipzig Hbf",
+    "lat": "51.345467",
+    "lon": "12.382066",
+    "arrTime": "11:10",
+    "depTime": "11:16",
+    "train": "ICE 694",
+    "type": "ICE",
+    "operator": "DB",
+    "notes": [
+      {
+        "key": "PF",
+        "priority": "200",
+        "text": "Please wear an FFP2 mask. You are legally required to do so"
+      },
+      {
+        "key": "CK",
+        "priority": "200",
+        "text": "Komfort Check-in possible (visit bahn.de/kci for more information)"
+      },
+      {
+        "key": "3G",
+        "priority": "205",
+        "text": "Nationwide «3G» rule applies on trains: valid proof must be presented"
+      },
+      {
+        "key": "FK",
+        "priority": "260",
+        "text": "Number of bicycles conveyed limited"
+      },
+      {
+        "key": "FR",
+        "priority": "260",
+        "text": "Bicycles conveyed - subject to reservation"
+      },
+      {
+        "key": "BR",
+        "priority": "450",
+        "text": "Bordrestaurant"
+      },
+      {
+        "key": "EH",
+        "priority": "560",
+        "text": "vehicle-mounted access aid"
+      }
+    ]
+  },
+  {
+    "stopId": 8010222,
+    "stopName": "Lutherstadt Wittenberg Hbf",
+    "lat": "51.867813",
+    "lon": "12.662286",
+    "arrTime": "11:46",
+    "depTime": "11:48",
+    "train": "ICE 694",
+    "type": "ICE",
+    "operator": "DB",
+    "notes": [
+      {
+        "key": "PF",
+        "priority": "200",
+        "text": "Please wear an FFP2 mask. You are legally required to do so"
+      },
+      {
+        "key": "CK",
+        "priority": "200",
+        "text": "Komfort Check-in possible (visit bahn.de/kci for more information)"
+      },
+      {
+        "key": "3G",
+        "priority": "205",
+        "text": "Nationwide «3G» rule applies on trains: valid proof must be presented"
+      },
+      {
+        "key": "FK",
+        "priority": "260",
+        "text": "Number of bicycles conveyed limited"
+      },
+      {
+        "key": "FR",
+        "priority": "260",
+        "text": "Bicycles conveyed - subject to reservation"
+      },
+      {
+        "key": "BR",
+        "priority": "450",
+        "text": "Bordrestaurant"
+      },
+      {
+        "key": "EH",
+        "priority": "560",
+        "text": "vehicle-mounted access aid"
+      }
+    ]
+  },
+  {
+    "stopId": 8011113,
+    "stopName": "Berlin Südkreuz",
+    "lat": "52.475043",
+    "lon": "13.365315",
+    "arrTime": "12:22",
+    "depTime": "12:24",
+    "train": "ICE 694",
+    "type": "ICE",
+    "operator": "DB",
+    "notes": [
+      {
+        "key": "PF",
+        "priority": "200",
+        "text": "Please wear an FFP2 mask. You are legally required to do so"
+      },
+      {
+        "key": "CK",
+        "priority": "200",
+        "text": "Komfort Check-in possible (visit bahn.de/kci for more information)"
+      },
+      {
+        "key": "3G",
+        "priority": "205",
+        "text": "Nationwide «3G» rule applies on trains: valid proof must be presented"
+      },
+      {
+        "key": "FK",
+        "priority": "260",
+        "text": "Number of bicycles conveyed limited"
+      },
+      {
+        "key": "FR",
+        "priority": "260",
+        "text": "Bicycles conveyed - subject to reservation"
+      },
+      {
+        "key": "BR",
+        "priority": "450",
+        "text": "Bordrestaurant"
+      },
+      {
+        "key": "EH",
+        "priority": "560",
+        "text": "vehicle-mounted access aid"
+      }
+    ]
+  },
+  {
+    "stopId": 8098160,
+    "stopName": "Berlin Hbf &#x0028;tief&#x0029;",
+    "lat": "52.525589",
+    "lon": "13.369549",
+    "arrTime": "12:29",
+    "depTime": "12:35",
+    "train": "ICE 694",
+    "type": "ICE",
+    "operator": "DB",
+    "notes": [
+      {
+        "key": "PF",
+        "priority": "200",
+        "text": "Please wear an FFP2 mask. You are legally required to do so"
+      },
+      {
+        "key": "CK",
+        "priority": "200",
+        "text": "Komfort Check-in possible (visit bahn.de/kci for more information)"
+      },
+      {
+        "key": "3G",
+        "priority": "205",
+        "text": "Nationwide «3G» rule applies on trains: valid proof must be presented"
+      },
+      {
+        "key": "FK",
+        "priority": "260",
+        "text": "Number of bicycles conveyed limited"
+      },
+      {
+        "key": "FR",
+        "priority": "260",
+        "text": "Bicycles conveyed - subject to reservation"
+      },
+      {
+        "key": "BR",
+        "priority": "450",
+        "text": "Bordrestaurant"
+      },
+      {
+        "key": "EH",
+        "priority": "560",
+        "text": "vehicle-mounted access aid"
+      }
+    ]
+  },
+  {
+    "stopId": 8011102,
+    "stopName": "Berlin Gesundbrunnen",
+    "lat": "52.548961",
+    "lon": "13.388516",
+    "arrTime": "12:40",
+    "train": "ICE 694",
+    "type": "ICE",
+    "operator": "DB",
+    "notes": [
+      {
+        "key": "PF",
+        "priority": "200",
+        "text": "Please wear an FFP2 mask. You are legally required to do so"
+      },
+      {
+        "key": "CK",
+        "priority": "200",
+        "text": "Komfort Check-in possible (visit bahn.de/kci for more information)"
+      },
+      {
+        "key": "3G",
+        "priority": "205",
+        "text": "Nationwide «3G» rule applies on trains: valid proof must be presented"
+      },
+      {
+        "key": "FK",
+        "priority": "260",
+        "text": "Number of bicycles conveyed limited"
+      },
+      {
+        "key": "FR",
+        "priority": "260",
+        "text": "Bicycles conveyed - subject to reservation"
+      },
+      {
+        "key": "BR",
+        "priority": "450",
+        "text": "Bordrestaurant"
+      },
+      {
+        "key": "EH",
+        "priority": "560",
+        "text": "vehicle-mounted access aid"
+      }
+    ]
+  },
+  {
+    "stopId": 8000105,
+    "stopName": "Frankfurt&#x0028;Main&#x0029;Hbf",
+    "lat": "50.107149",
+    "lon": "8.663785",
+    "depTime": "05:06",
+    "train": "ICE 1088",
+    "type": "ICE",
+    "operator": "DB",
+    "notes": [
+      {
+        "key": "PF",
+        "priority": "200",
+        "text": "Please wear an FFP2 mask. You are legally required to do so"
+      },
+      {
+        "key": "CK",
+        "priority": "200",
+        "text": "Komfort Check-in possible (visit bahn.de/kci for more information)"
+      },
+      {
+        "key": "3G",
+        "priority": "205",
+        "text": "Nationwide «3G» rule applies on trains: valid proof must be presented"
+      },
+      {
+        "key": "FK",
+        "priority": "260",
+        "text": "Number of bicycles conveyed limited"
+      },
+      {
+        "key": "FR",
+        "priority": "260",
+        "text": "Bicycles conveyed - subject to reservation"
+      },
+      {
+        "key": "BR",
+        "priority": "450",
+        "text": "Bordrestaurant"
+      },
+      {
+        "key": "EH",
+        "priority": "560",
+        "text": "vehicle-mounted access aid"
+      }
+    ]
+  },
+  {
+    "stopId": 8000150,
+    "stopName": "Hanau Hbf",
+    "lat": "50.120957",
+    "lon": "8.929003",
+    "arrTime": "05:20",
+    "depTime": "05:21",
+    "train": "ICE 1088",
+    "type": "ICE",
+    "operator": "DB",
+    "notes": [
+      {
+        "key": "PF",
+        "priority": "200",
+        "text": "Please wear an FFP2 mask. You are legally required to do so"
+      },
+      {
+        "key": "CK",
+        "priority": "200",
+        "text": "Komfort Check-in possible (visit bahn.de/kci for more information)"
+      },
+      {
+        "key": "3G",
+        "priority": "205",
+        "text": "Nationwide «3G» rule applies on trains: valid proof must be presented"
+      },
+      {
+        "key": "FK",
+        "priority": "260",
+        "text": "Number of bicycles conveyed limited"
+      },
+      {
+        "key": "FR",
+        "priority": "260",
+        "text": "Bicycles conveyed - subject to reservation"
+      },
+      {
+        "key": "BR",
+        "priority": "450",
+        "text": "Bordrestaurant"
+      },
+      {
+        "key": "EH",
+        "priority": "560",
+        "text": "vehicle-mounted access aid"
+      }
+    ]
+  },
+  {
+    "stopId": 8000115,
+    "stopName": "Fulda",
+    "lat": "50.554722",
+    "lon": "9.683980",
+    "arrTime": "06:02",
+    "depTime": "06:04",
+    "train": "ICE 1088",
+    "type": "ICE",
+    "operator": "DB",
+    "notes": [
+      {
+        "key": "PF",
+        "priority": "200",
+        "text": "Please wear an FFP2 mask. You are legally required to do so"
+      },
+      {
+        "key": "CK",
+        "priority": "200",
+        "text": "Komfort Check-in possible (visit bahn.de/kci for more information)"
+      },
+      {
+        "key": "3G",
+        "priority": "205",
+        "text": "Nationwide «3G» rule applies on trains: valid proof must be presented"
+      },
+      {
+        "key": "FK",
+        "priority": "260",
+        "text": "Number of bicycles conveyed limited"
+      },
+      {
+        "key": "FR",
+        "priority": "260",
+        "text": "Bicycles conveyed - subject to reservation"
+      },
+      {
+        "key": "BR",
+        "priority": "450",
+        "text": "Bordrestaurant"
+      },
+      {
+        "key": "EH",
+        "priority": "560",
+        "text": "vehicle-mounted access aid"
+      }
+    ]
+  },
+  {
+    "stopId": 8003200,
+    "stopName": "Kassel-Wilhelmshöhe",
+    "lat": "51.313115",
+    "lon": "9.446899",
+    "arrTime": "06:34",
+    "depTime": "06:36",
+    "train": "ICE 1088",
+    "type": "ICE",
+    "operator": "DB",
+    "notes": [
+      {
+        "key": "PF",
+        "priority": "200",
+        "text": "Please wear an FFP2 mask. You are legally required to do so"
+      },
+      {
+        "key": "CK",
+        "priority": "200",
+        "text": "Komfort Check-in possible (visit bahn.de/kci for more information)"
+      },
+      {
+        "key": "3G",
+        "priority": "205",
+        "text": "Nationwide «3G» rule applies on trains: valid proof must be presented"
+      },
+      {
+        "key": "FK",
+        "priority": "260",
+        "text": "Number of bicycles conveyed limited"
+      },
+      {
+        "key": "FR",
+        "priority": "260",
+        "text": "Bicycles conveyed - subject to reservation"
+      },
+      {
+        "key": "BR",
+        "priority": "450",
+        "text": "Bordrestaurant"
+      },
+      {
+        "key": "EH",
+        "priority": "560",
+        "text": "vehicle-mounted access aid"
+      }
+    ]
+  },
+  {
+    "stopId": 8000128,
+    "stopName": "Göttingen",
+    "lat": "51.536812",
+    "lon": "9.926069",
+    "arrTime": "06:54",
+    "depTime": "06:55",
+    "train": "ICE 1088",
+    "type": "ICE",
+    "operator": "DB",
+    "notes": [
+      {
+        "key": "PF",
+        "priority": "200",
+        "text": "Please wear an FFP2 mask. You are legally required to do so"
+      },
+      {
+        "key": "CK",
+        "priority": "200",
+        "text": "Komfort Check-in possible (visit bahn.de/kci for more information)"
+      },
+      {
+        "key": "3G",
+        "priority": "205",
+        "text": "Nationwide «3G» rule applies on trains: valid proof must be presented"
+      },
+      {
+        "key": "FK",
+        "priority": "260",
+        "text": "Number of bicycles conveyed limited"
+      },
+      {
+        "key": "FR",
+        "priority": "260",
+        "text": "Bicycles conveyed - subject to reservation"
+      },
+      {
+        "key": "BR",
+        "priority": "450",
+        "text": "Bordrestaurant"
+      },
+      {
+        "key": "EH",
+        "priority": "560",
+        "text": "vehicle-mounted access aid"
+      }
+    ]
+  },
+  {
+    "stopId": 8000152,
+    "stopName": "Hannover Hbf",
+    "lat": "52.376764",
+    "lon": "9.741017",
+    "arrTime": "07:32",
+    "depTime": "07:36",
+    "train": "ICE 1088",
+    "type": "ICE",
+    "operator": "DB",
+    "notes": [
+      {
+        "key": "PF",
+        "priority": "200",
+        "text": "Please wear an FFP2 mask. You are legally required to do so"
+      },
+      {
+        "key": "CK",
+        "priority": "200",
+        "text": "Komfort Check-in possible (visit bahn.de/kci for more information)"
+      },
+      {
+        "key": "3G",
+        "priority": "205",
+        "text": "Nationwide «3G» rule applies on trains: valid proof must be presented"
+      },
+      {
+        "key": "FK",
+        "priority": "260",
+        "text": "Number of bicycles conveyed limited"
+      },
+      {
+        "key": "FR",
+        "priority": "260",
+        "text": "Bicycles conveyed - subject to reservation"
+      },
+      {
+        "key": "BR",
+        "priority": "450",
+        "text": "Bordrestaurant"
+      },
+      {
+        "key": "EH",
+        "priority": "560",
+        "text": "vehicle-mounted access aid"
+      }
+    ]
+  },
+  {
+    "stopId": 8000064,
+    "stopName": "Celle",
+    "lat": "52.620452",
+    "lon": "10.062471",
+    "arrTime": "07:55",
+    "depTime": "07:57",
+    "train": "ICE 1088",
+    "type": "ICE",
+    "operator": "DB",
+    "notes": [
+      {
+        "key": "PF",
+        "priority": "200",
+        "text": "Please wear an FFP2 mask. You are legally required to do so"
+      },
+      {
+        "key": "CK",
+        "priority": "200",
+        "text": "Komfort Check-in possible (visit bahn.de/kci for more information)"
+      },
+      {
+        "key": "3G",
+        "priority": "205",
+        "text": "Nationwide «3G» rule applies on trains: valid proof must be presented"
+      },
+      {
+        "key": "FK",
+        "priority": "260",
+        "text": "Number of bicycles conveyed limited"
+      },
+      {
+        "key": "FR",
+        "priority": "260",
+        "text": "Bicycles conveyed - subject to reservation"
+      },
+      {
+        "key": "BR",
+        "priority": "450",
+        "text": "Bordrestaurant"
+      },
+      {
+        "key": "EH",
+        "priority": "560",
+        "text": "vehicle-mounted access aid"
+      }
+    ]
+  },
+  {
+    "stopId": 8000168,
+    "stopName": "Uelzen",
+    "lat": "52.969782",
+    "lon": "10.553057",
+    "arrTime": "08:19",
+    "depTime": "08:21",
+    "train": "ICE 1088",
+    "type": "ICE",
+    "operator": "DB",
+    "notes": [
+      {
+        "key": "PF",
+        "priority": "200",
+        "text": "Please wear an FFP2 mask. You are legally required to do so"
+      },
+      {
+        "key": "CK",
+        "priority": "200",
+        "text": "Komfort Check-in possible (visit bahn.de/kci for more information)"
+      },
+      {
+        "key": "3G",
+        "priority": "205",
+        "text": "Nationwide «3G» rule applies on trains: valid proof must be presented"
+      },
+      {
+        "key": "FK",
+        "priority": "260",
+        "text": "Number of bicycles conveyed limited"
+      },
+      {
+        "key": "FR",
+        "priority": "260",
+        "text": "Bicycles conveyed - subject to reservation"
+      },
+      {
+        "key": "BR",
+        "priority": "450",
+        "text": "Bordrestaurant"
+      },
+      {
+        "key": "EH",
+        "priority": "560",
+        "text": "vehicle-mounted access aid"
+      }
+    ]
+  },
+  {
+    "stopId": 8000238,
+    "stopName": "Lüneburg",
+    "lat": "53.249652",
+    "lon": "10.419891",
+    "arrTime": "08:36",
+    "depTime": "08:38",
+    "train": "ICE 1088",
+    "type": "ICE",
+    "operator": "DB",
+    "notes": [
+      {
+        "key": "PF",
+        "priority": "200",
+        "text": "Please wear an FFP2 mask. You are legally required to do so"
+      },
+      {
+        "key": "CK",
+        "priority": "200",
+        "text": "Komfort Check-in possible (visit bahn.de/kci for more information)"
+      },
+      {
+        "key": "3G",
+        "priority": "205",
+        "text": "Nationwide «3G» rule applies on trains: valid proof must be presented"
+      },
+      {
+        "key": "FK",
+        "priority": "260",
+        "text": "Number of bicycles conveyed limited"
+      },
+      {
+        "key": "FR",
+        "priority": "260",
+        "text": "Bicycles conveyed - subject to reservation"
+      },
+      {
+        "key": "BR",
+        "priority": "450",
+        "text": "Bordrestaurant"
+      },
+      {
+        "key": "EH",
+        "priority": "560",
+        "text": "vehicle-mounted access aid"
+      }
+    ]
+  },
+  {
+    "stopId": 8000147,
+    "stopName": "Hamburg-Harburg",
+    "lat": "53.455910",
+    "lon": "9.991699",
+    "arrTime": "09:15",
+    "depTime": "09:17",
+    "train": "ICE 1088",
+    "type": "ICE",
+    "operator": "DB",
+    "notes": [
+      {
+        "key": "PF",
+        "priority": "200",
+        "text": "Please wear an FFP2 mask. You are legally required to do so"
+      },
+      {
+        "key": "CK",
+        "priority": "200",
+        "text": "Komfort Check-in possible (visit bahn.de/kci for more information)"
+      },
+      {
+        "key": "3G",
+        "priority": "205",
+        "text": "Nationwide «3G» rule applies on trains: valid proof must be presented"
+      },
+      {
+        "key": "FK",
+        "priority": "260",
+        "text": "Number of bicycles conveyed limited"
+      },
+      {
+        "key": "FR",
+        "priority": "260",
+        "text": "Bicycles conveyed - subject to reservation"
+      },
+      {
+        "key": "BR",
+        "priority": "450",
+        "text": "Bordrestaurant"
+      },
+      {
+        "key": "EH",
+        "priority": "560",
+        "text": "vehicle-mounted access aid"
+      }
+    ]
+  },
+  {
+    "stopId": 8002549,
+    "stopName": "Hamburg Hbf",
+    "lat": "53.552733",
+    "lon": "10.006909",
+    "arrTime": "09:29",
+    "depTime": "09:33",
+    "train": "ICE 1088",
+    "type": "ICE",
+    "operator": "DB",
+    "notes": [
+      {
+        "key": "PF",
+        "priority": "200",
+        "text": "Please wear an FFP2 mask. You are legally required to do so"
+      },
+      {
+        "key": "CK",
+        "priority": "200",
+        "text": "Komfort Check-in possible (visit bahn.de/kci for more information)"
+      },
+      {
+        "key": "3G",
+        "priority": "205",
+        "text": "Nationwide «3G» rule applies on trains: valid proof must be presented"
+      },
+      {
+        "key": "FK",
+        "priority": "260",
+        "text": "Number of bicycles conveyed limited"
+      },
+      {
+        "key": "FR",
+        "priority": "260",
+        "text": "Bicycles conveyed - subject to reservation"
+      },
+      {
+        "key": "BR",
+        "priority": "450",
+        "text": "Bordrestaurant"
+      },
+      {
+        "key": "EH",
+        "priority": "560",
+        "text": "vehicle-mounted access aid"
+      }
+    ]
+  },
+  {
+    "stopId": 8002548,
+    "stopName": "Hamburg Dammtor",
+    "lat": "53.560751",
+    "lon": "9.989569",
+    "arrTime": "09:36",
+    "depTime": "09:37",
+    "train": "ICE 1088",
+    "type": "ICE",
+    "operator": "DB",
+    "notes": [
+      {
+        "key": "PF",
+        "priority": "200",
+        "text": "Please wear an FFP2 mask. You are legally required to do so"
+      },
+      {
+        "key": "CK",
+        "priority": "200",
+        "text": "Komfort Check-in possible (visit bahn.de/kci for more information)"
+      },
+      {
+        "key": "3G",
+        "priority": "205",
+        "text": "Nationwide «3G» rule applies on trains: valid proof must be presented"
+      },
+      {
+        "key": "FK",
+        "priority": "260",
+        "text": "Number of bicycles conveyed limited"
+      },
+      {
+        "key": "FR",
+        "priority": "260",
+        "text": "Bicycles conveyed - subject to reservation"
+      },
+      {
+        "key": "BR",
+        "priority": "450",
+        "text": "Bordrestaurant"
+      },
+      {
+        "key": "EH",
+        "priority": "560",
+        "text": "vehicle-mounted access aid"
+      }
+    ]
+  },
+  {
+    "stopId": 8002553,
+    "stopName": "Hamburg-Altona",
+    "lat": "53.552697",
+    "lon": "9.935175",
+    "arrTime": "09:46",
+    "train": "ICE 1088",
+    "type": "ICE",
+    "operator": "DB",
+    "notes": [
+      {
+        "key": "PF",
+        "priority": "200",
+        "text": "Please wear an FFP2 mask. You are legally required to do so"
+      },
+      {
+        "key": "CK",
+        "priority": "200",
+        "text": "Komfort Check-in possible (visit bahn.de/kci for more information)"
+      },
+      {
+        "key": "3G",
+        "priority": "205",
+        "text": "Nationwide «3G» rule applies on trains: valid proof must be presented"
+      },
+      {
+        "key": "FK",
+        "priority": "260",
+        "text": "Number of bicycles conveyed limited"
+      },
+      {
+        "key": "FR",
+        "priority": "260",
+        "text": "Bicycles conveyed - subject to reservation"
+      },
+      {
+        "key": "BR",
+        "priority": "450",
+        "text": "Bordrestaurant"
+      },
+      {
+        "key": "EH",
+        "priority": "560",
+        "text": "vehicle-mounted access aid"
+      }
+    ]
+  },
+  {
+    "stopId": 8500010,
+    "stopName": "Basel SBB",
+    "lat": "47.547408",
+    "lon": "7.589548",
+    "depTime": "04:03",
+    "train": "ICE 270",
+    "type": "ICE",
+    "operator": "DB",
+    "notes": [
+      {
+        "key": "PF",
+        "priority": "200",
+        "text": "Please wear an FFP2 mask. You are legally required to do so"
+      },
+      {
+        "key": "CK",
+        "priority": "200",
+        "text": "Komfort Check-in possible (visit bahn.de/kci for more information)"
+      },
+      {
+        "key": "3G",
+        "priority": "205",
+        "text": "Nationwide «3G» rule applies on trains: valid proof must be presented"
+      },
+      {
+        "key": "FK",
+        "priority": "260",
+        "text": "Number of bicycles conveyed limited"
+      },
+      {
+        "key": "FR",
+        "priority": "260",
+        "text": "Bicycles conveyed - subject to reservation"
+      },
+      {
+        "key": "EH",
+        "priority": "560",
+        "text": "vehicle-mounted access aid"
+      }
+    ]
+  },
+  {
+    "stopId": 8000026,
+    "stopName": "Basel Bad Bf",
+    "lat": "47.567292",
+    "lon": "7.607805",
+    "arrTime": "04:10",
+    "depTime": "04:12",
+    "train": "ICE 270",
+    "type": "ICE",
+    "operator": "DB",
+    "notes": [
+      {
+        "key": "PF",
+        "priority": "200",
+        "text": "Please wear an FFP2 mask. You are legally required to do so"
+      },
+      {
+        "key": "CK",
+        "priority": "200",
+        "text": "Komfort Check-in possible (visit bahn.de/kci for more information)"
+      },
+      {
+        "key": "3G",
+        "priority": "205",
+        "text": "Nationwide «3G» rule applies on trains: valid proof must be presented"
+      },
+      {
+        "key": "FK",
+        "priority": "260",
+        "text": "Number of bicycles conveyed limited"
+      },
+      {
+        "key": "FR",
+        "priority": "260",
+        "text": "Bicycles conveyed - subject to reservation"
+      },
+      {
+        "key": "EH",
+        "priority": "560",
+        "text": "vehicle-mounted access aid"
+      }
+    ]
+  },
+  {
+    "stopId": 8000107,
+    "stopName": "Freiburg&#x0028;Breisgau&#x0029; Hbf",
+    "lat": "47.997696",
+    "lon": "7.841174",
+    "arrTime": "04:45",
+    "depTime": "04:46",
+    "train": "ICE 270",
+    "type": "ICE",
+    "operator": "DB",
+    "notes": [
+      {
+        "key": "PF",
+        "priority": "200",
+        "text": "Please wear an FFP2 mask. You are legally required to do so"
+      },
+      {
+        "key": "CK",
+        "priority": "200",
+        "text": "Komfort Check-in possible (visit bahn.de/kci for more information)"
+      },
+      {
+        "key": "3G",
+        "priority": "205",
+        "text": "Nationwide «3G» rule applies on trains: valid proof must be presented"
+      },
+      {
+        "key": "FK",
+        "priority": "260",
+        "text": "Number of bicycles conveyed limited"
+      },
+      {
+        "key": "FR",
+        "priority": "260",
+        "text": "Bicycles conveyed - subject to reservation"
+      },
+      {
+        "key": "EH",
+        "priority": "560",
+        "text": "vehicle-mounted access aid"
+      }
+    ]
+  },
+  {
+    "stopId": 8000290,
+    "stopName": "Offenburg",
+    "lat": "48.476479",
+    "lon": "7.946725",
+    "arrTime": "05:18",
+    "depTime": "05:19",
+    "train": "ICE 270",
+    "type": "ICE",
+    "operator": "DB",
+    "notes": [
+      {
+        "key": "PF",
+        "priority": "200",
+        "text": "Please wear an FFP2 mask. You are legally required to do so"
+      },
+      {
+        "key": "CK",
+        "priority": "200",
+        "text": "Komfort Check-in possible (visit bahn.de/kci for more information)"
+      },
+      {
+        "key": "3G",
+        "priority": "205",
+        "text": "Nationwide «3G» rule applies on trains: valid proof must be presented"
+      },
+      {
+        "key": "FK",
+        "priority": "260",
+        "text": "Number of bicycles conveyed limited"
+      },
+      {
+        "key": "FR",
+        "priority": "260",
+        "text": "Bicycles conveyed - subject to reservation"
+      },
+      {
+        "key": "EH",
+        "priority": "560",
+        "text": "vehicle-mounted access aid"
+      }
+    ]
+  },
+  {
+    "stopId": 8000774,
+    "stopName": "Baden-Baden",
+    "lat": "48.790329",
+    "lon": "8.190827",
+    "arrTime": "05:34",
+    "depTime": "05:35",
+    "train": "ICE 270",
+    "type": "ICE",
+    "operator": "DB",
+    "notes": [
+      {
+        "key": "PF",
+        "priority": "200",
+        "text": "Please wear an FFP2 mask. You are legally required to do so"
+      },
+      {
+        "key": "CK",
+        "priority": "200",
+        "text": "Komfort Check-in possible (visit bahn.de/kci for more information)"
+      },
+      {
+        "key": "3G",
+        "priority": "205",
+        "text": "Nationwide «3G» rule applies on trains: valid proof must be presented"
+      },
+      {
+        "key": "FK",
+        "priority": "260",
+        "text": "Number of bicycles conveyed limited"
+      },
+      {
+        "key": "FR",
+        "priority": "260",
+        "text": "Bicycles conveyed - subject to reservation"
+      },
+      {
+        "key": "EH",
+        "priority": "560",
+        "text": "vehicle-mounted access aid"
+      }
+    ]
+  },
+  {
+    "stopId": 8000191,
+    "stopName": "Karlsruhe Hbf",
+    "lat": "48.993512",
+    "lon": "8.402181",
+    "arrTime": "05:54",
+    "depTime": "05:58",
+    "train": "ICE 270",
+    "type": "ICE",
+    "operator": "DB",
+    "notes": [
+      {
+        "key": "PF",
+        "priority": "200",
+        "text": "Please wear an FFP2 mask. You are legally required to do so"
+      },
+      {
+        "key": "CK",
+        "priority": "200",
+        "text": "Komfort Check-in possible (visit bahn.de/kci for more information)"
+      },
+      {
+        "key": "3G",
+        "priority": "205",
+        "text": "Nationwide «3G» rule applies on trains: valid proof must be presented"
+      },
+      {
+        "key": "FK",
+        "priority": "260",
+        "text": "Number of bicycles conveyed limited"
+      },
+      {
+        "key": "FR",
+        "priority": "260",
+        "text": "Bicycles conveyed - subject to reservation"
+      },
+      {
+        "key": "BR",
+        "priority": "450",
+        "text": "Bordrestaurant"
+      },
+      {
+        "key": "EH",
+        "priority": "560",
+        "text": "vehicle-mounted access aid"
+      }
+    ]
+  },
+  {
+    "stopId": 8000244,
+    "stopName": "Mannheim Hbf",
+    "lat": "49.479352",
+    "lon": "8.468917",
+    "arrTime": "06:24",
+    "depTime": "06:32",
+    "train": "ICE 270",
+    "type": "ICE",
+    "operator": "DB",
+    "notes": [
+      {
+        "key": "PF",
+        "priority": "200",
+        "text": "Please wear an FFP2 mask. You are legally required to do so"
+      },
+      {
+        "key": "CK",
+        "priority": "200",
+        "text": "Komfort Check-in possible (visit bahn.de/kci for more information)"
+      },
+      {
+        "key": "3G",
+        "priority": "205",
+        "text": "Nationwide «3G» rule applies on trains: valid proof must be presented"
+      },
+      {
+        "key": "FK",
+        "priority": "260",
+        "text": "Number of bicycles conveyed limited"
+      },
+      {
+        "key": "FR",
+        "priority": "260",
+        "text": "Bicycles conveyed - subject to reservation"
+      },
+      {
+        "key": "BR",
+        "priority": "450",
+        "text": "Bordrestaurant"
+      },
+      {
+        "key": "EH",
+        "priority": "560",
+        "text": "vehicle-mounted access aid"
+      }
+    ]
+  },
+  {
+    "stopId": 8000105,
+    "stopName": "Frankfurt&#x0028;Main&#x0029;Hbf",
+    "lat": "50.107149",
+    "lon": "8.663785",
+    "arrTime": "07:08",
+    "depTime": "07:14",
+    "train": "ICE 270",
+    "type": "ICE",
+    "operator": "DB",
+    "notes": [
+      {
+        "key": "PF",
+        "priority": "200",
+        "text": "Please wear an FFP2 mask. You are legally required to do so"
+      },
+      {
+        "key": "CK",
+        "priority": "200",
+        "text": "Komfort Check-in possible (visit bahn.de/kci for more information)"
+      },
+      {
+        "key": "3G",
+        "priority": "205",
+        "text": "Nationwide «3G» rule applies on trains: valid proof must be presented"
+      },
+      {
+        "key": "FK",
+        "priority": "260",
+        "text": "Number of bicycles conveyed limited"
+      },
+      {
+        "key": "FR",
+        "priority": "260",
+        "text": "Bicycles conveyed - subject to reservation"
+      },
+      {
+        "key": "BR",
+        "priority": "450",
+        "text": "Bordrestaurant"
+      },
+      {
+        "key": "EH",
+        "priority": "560",
+        "text": "vehicle-mounted access aid"
+      }
+    ]
+  },
+  {
+    "stopId": 8000150,
+    "stopName": "Hanau Hbf",
+    "lat": "50.120957",
+    "lon": "8.929003",
+    "arrTime": "07:28",
+    "depTime": "07:30",
+    "train": "ICE 270",
+    "type": "ICE",
+    "operator": "DB",
+    "notes": [
+      {
+        "key": "PF",
+        "priority": "200",
+        "text": "Please wear an FFP2 mask. You are legally required to do so"
+      },
+      {
+        "key": "CK",
+        "priority": "200",
+        "text": "Komfort Check-in possible (visit bahn.de/kci for more information)"
+      },
+      {
+        "key": "3G",
+        "priority": "205",
+        "text": "Nationwide «3G» rule applies on trains: valid proof must be presented"
+      },
+      {
+        "key": "FK",
+        "priority": "260",
+        "text": "Number of bicycles conveyed limited"
+      },
+      {
+        "key": "FR",
+        "priority": "260",
+        "text": "Bicycles conveyed - subject to reservation"
+      },
+      {
+        "key": "BR",
+        "priority": "450",
+        "text": "Bordrestaurant"
+      },
+      {
+        "key": "EH",
+        "priority": "560",
+        "text": "vehicle-mounted access aid"
+      }
+    ]
+  },
+  {
+    "stopId": 8000115,
+    "stopName": "Fulda",
+    "lat": "50.554722",
+    "lon": "9.683980",
+    "arrTime": "08:10",
+    "depTime": "08:12",
+    "train": "ICE 270",
+    "type": "ICE",
+    "operator": "DB",
+    "notes": [
+      {
+        "key": "PF",
+        "priority": "200",
+        "text": "Please wear an FFP2 mask. You are legally required to do so"
+      },
+      {
+        "key": "CK",
+        "priority": "200",
+        "text": "Komfort Check-in possible (visit bahn.de/kci for more information)"
+      },
+      {
+        "key": "3G",
+        "priority": "205",
+        "text": "Nationwide «3G» rule applies on trains: valid proof must be presented"
+      },
+      {
+        "key": "FK",
+        "priority": "260",
+        "text": "Number of bicycles conveyed limited"
+      },
+      {
+        "key": "FR",
+        "priority": "260",
+        "text": "Bicycles conveyed - subject to reservation"
+      },
+      {
+        "key": "BR",
+        "priority": "450",
+        "text": "Bordrestaurant"
+      },
+      {
+        "key": "EH",
+        "priority": "560",
+        "text": "vehicle-mounted access aid"
+      }
+    ]
+  },
+  {
+    "stopId": 8003200,
+    "stopName": "Kassel-Wilhelmshöhe",
+    "lat": "51.313115",
+    "lon": "9.446899",
+    "arrTime": "08:43",
+    "depTime": "08:45",
+    "train": "ICE 270",
+    "type": "ICE",
+    "operator": "DB",
+    "notes": [
+      {
+        "key": "PF",
+        "priority": "200",
+        "text": "Please wear an FFP2 mask. You are legally required to do so"
+      },
+      {
+        "key": "CK",
+        "priority": "200",
+        "text": "Komfort Check-in possible (visit bahn.de/kci for more information)"
+      },
+      {
+        "key": "3G",
+        "priority": "205",
+        "text": "Nationwide «3G» rule applies on trains: valid proof must be presented"
+      },
+      {
+        "key": "FK",
+        "priority": "260",
+        "text": "Number of bicycles conveyed limited"
+      },
+      {
+        "key": "FR",
+        "priority": "260",
+        "text": "Bicycles conveyed - subject to reservation"
+      },
+      {
+        "key": "BR",
+        "priority": "450",
+        "text": "Bordrestaurant"
+      },
+      {
+        "key": "EH",
+        "priority": "560",
+        "text": "vehicle-mounted access aid"
+      }
+    ]
+  },
+  {
+    "stopId": 8000128,
+    "stopName": "Göttingen",
+    "lat": "51.536812",
+    "lon": "9.926069",
+    "arrTime": "09:03",
+    "depTime": "09:06",
+    "train": "ICE 270",
+    "type": "ICE",
+    "operator": "DB",
+    "notes": [
+      {
+        "key": "PF",
+        "priority": "200",
+        "text": "Please wear an FFP2 mask. You are legally required to do so"
+      },
+      {
+        "key": "CK",
+        "priority": "200",
+        "text": "Komfort Check-in possible (visit bahn.de/kci for more information)"
+      },
+      {
+        "key": "3G",
+        "priority": "205",
+        "text": "Nationwide «3G» rule applies on trains: valid proof must be presented"
+      },
+      {
+        "key": "FK",
+        "priority": "260",
+        "text": "Number of bicycles conveyed limited"
+      },
+      {
+        "key": "FR",
+        "priority": "260",
+        "text": "Bicycles conveyed - subject to reservation"
+      },
+      {
+        "key": "BR",
+        "priority": "450",
+        "text": "Bordrestaurant"
+      },
+      {
+        "key": "EH",
+        "priority": "560",
+        "text": "vehicle-mounted access aid"
+      }
+    ]
+  },
+  {
+    "stopId": 8000169,
+    "stopName": "Hildesheim Hbf",
+    "lat": "52.160627",
+    "lon": "9.953495",
+    "arrTime": "09:35",
+    "depTime": "09:36",
+    "train": "ICE 270",
+    "type": "ICE",
+    "operator": "DB",
+    "notes": [
+      {
+        "key": "PF",
+        "priority": "200",
+        "text": "Please wear an FFP2 mask. You are legally required to do so"
+      },
+      {
+        "key": "CK",
+        "priority": "200",
+        "text": "Komfort Check-in possible (visit bahn.de/kci for more information)"
+      },
+      {
+        "key": "3G",
+        "priority": "205",
+        "text": "Nationwide «3G» rule applies on trains: valid proof must be presented"
+      },
+      {
+        "key": "FK",
+        "priority": "260",
+        "text": "Number of bicycles conveyed limited"
+      },
+      {
+        "key": "FR",
+        "priority": "260",
+        "text": "Bicycles conveyed - subject to reservation"
+      },
+      {
+        "key": "BR",
+        "priority": "450",
+        "text": "Bordrestaurant"
+      },
+      {
+        "key": "EH",
+        "priority": "560",
+        "text": "vehicle-mounted access aid"
+      }
+    ]
+  },
+  {
+    "stopId": 8000049,
+    "stopName": "Braunschweig Hbf",
+    "lat": "52.252218",
+    "lon": "10.540293",
+    "arrTime": "09:59",
+    "depTime": "10:01",
+    "train": "ICE 270",
+    "type": "ICE",
+    "operator": "DB",
+    "notes": [
+      {
+        "key": "PF",
+        "priority": "200",
+        "text": "Please wear an FFP2 mask. You are legally required to do so"
+      },
+      {
+        "key": "CK",
+        "priority": "200",
+        "text": "Komfort Check-in possible (visit bahn.de/kci for more information)"
+      },
+      {
+        "key": "3G",
+        "priority": "205",
+        "text": "Nationwide «3G» rule applies on trains: valid proof must be presented"
+      },
+      {
+        "key": "FK",
+        "priority": "260",
+        "text": "Number of bicycles conveyed limited"
+      },
+      {
+        "key": "FR",
+        "priority": "260",
+        "text": "Bicycles conveyed - subject to reservation"
+      },
+      {
+        "key": "BR",
+        "priority": "450",
+        "text": "Bordrestaurant"
+      },
+      {
+        "key": "EH",
+        "priority": "560",
+        "text": "vehicle-mounted access aid"
+      }
+    ]
+  },
+  {
+    "stopId": 8006552,
+    "stopName": "Wolfsburg Hbf",
+    "lat": "52.429495",
+    "lon": "10.787784",
+    "arrTime": "10:17",
+    "depTime": "10:18",
+    "train": "ICE 270",
+    "type": "ICE",
+    "operator": "DB",
+    "notes": [
+      {
+        "key": "PF",
+        "priority": "200",
+        "text": "Please wear an FFP2 mask. You are legally required to do so"
+      },
+      {
+        "key": "CK",
+        "priority": "200",
+        "text": "Komfort Check-in possible (visit bahn.de/kci for more information)"
+      },
+      {
+        "key": "3G",
+        "priority": "205",
+        "text": "Nationwide «3G» rule applies on trains: valid proof must be presented"
+      },
+      {
+        "key": "FK",
+        "priority": "260",
+        "text": "Number of bicycles conveyed limited"
+      },
+      {
+        "key": "FR",
+        "priority": "260",
+        "text": "Bicycles conveyed - subject to reservation"
+      },
+      {
+        "key": "BR",
+        "priority": "450",
+        "text": "Bordrestaurant"
+      },
+      {
+        "key": "EH",
+        "priority": "560",
+        "text": "vehicle-mounted access aid"
+      }
+    ]
+  },
+  {
+    "stopId": 8010404,
+    "stopName": "Berlin-Spandau",
+    "lat": "52.534650",
+    "lon": "13.196902",
+    "arrTime": "11:13",
+    "depTime": "11:15",
+    "train": "ICE 270",
+    "type": "ICE",
+    "operator": "DB",
+    "notes": [
+      {
+        "key": "PF",
+        "priority": "200",
+        "text": "Please wear an FFP2 mask. You are legally required to do so"
+      },
+      {
+        "key": "CK",
+        "priority": "200",
+        "text": "Komfort Check-in possible (visit bahn.de/kci for more information)"
+      },
+      {
+        "key": "3G",
+        "priority": "205",
+        "text": "Nationwide «3G» rule applies on trains: valid proof must be presented"
+      },
+      {
+        "key": "FK",
+        "priority": "260",
+        "text": "Number of bicycles conveyed limited"
+      },
+      {
+        "key": "FR",
+        "priority": "260",
+        "text": "Bicycles conveyed - subject to reservation"
+      },
+      {
+        "key": "BR",
+        "priority": "450",
+        "text": "Bordrestaurant"
+      },
+      {
+        "key": "EH",
+        "priority": "560",
+        "text": "vehicle-mounted access aid"
+      }
+    ]
+  },
+  {
+    "stopId": 8011160,
+    "stopName": "Berlin Hbf",
+    "lat": "52.525589",
+    "lon": "13.369549",
+    "arrTime": "11:28",
+    "depTime": "11:32",
+    "train": "ICE 270",
+    "type": "ICE",
+    "operator": "DB",
+    "notes": [
+      {
+        "key": "PF",
+        "priority": "200",
+        "text": "Please wear an FFP2 mask. You are legally required to do so"
+      },
+      {
+        "key": "CK",
+        "priority": "200",
+        "text": "Komfort Check-in possible (visit bahn.de/kci for more information)"
+      },
+      {
+        "key": "3G",
+        "priority": "205",
+        "text": "Nationwide «3G» rule applies on trains: valid proof must be presented"
+      },
+      {
+        "key": "FK",
+        "priority": "260",
+        "text": "Number of bicycles conveyed limited"
+      },
+      {
+        "key": "FR",
+        "priority": "260",
+        "text": "Bicycles conveyed - subject to reservation"
+      },
+      {
+        "key": "BR",
+        "priority": "450",
+        "text": "Bordrestaurant"
+      },
+      {
+        "key": "EH",
+        "priority": "560",
+        "text": "vehicle-mounted access aid"
+      }
+    ]
+  },
+  {
+    "stopId": 8010255,
+    "stopName": "Berlin Ostbahnhof",
+    "lat": "52.510487",
+    "lon": "13.434684",
+    "arrTime": "11:39",
+    "train": "ICE 270",
+    "type": "ICE",
+    "operator": "DB",
+    "notes": [
+      {
+        "key": "PF",
+        "priority": "200",
+        "text": "Please wear an FFP2 mask. You are legally required to do so"
+      },
+      {
+        "key": "CK",
+        "priority": "200",
+        "text": "Komfort Check-in possible (visit bahn.de/kci for more information)"
+      },
+      {
+        "key": "3G",
+        "priority": "205",
+        "text": "Nationwide «3G» rule applies on trains: valid proof must be presented"
+      },
+      {
+        "key": "FK",
+        "priority": "260",
+        "text": "Number of bicycles conveyed limited"
+      },
+      {
+        "key": "FR",
+        "priority": "260",
+        "text": "Bicycles conveyed - subject to reservation"
+      },
+      {
+        "key": "BR",
+        "priority": "450",
+        "text": "Bordrestaurant"
+      },
+      {
+        "key": "EH",
+        "priority": "560",
+        "text": "vehicle-mounted access aid"
+      }
+    ]
+  },
+  {
+    "stopId": 8002553,
+    "stopName": "Hamburg-Altona",
+    "lat": "53.552697",
+    "lon": "9.935175",
+    "depTime": "19:05",
+    "train": "ICE 887",
+    "type": "ICE",
+    "operator": "DB",
+    "notes": [
+      {
+        "key": "PF",
+        "priority": "200",
+        "text": "Please wear an FFP2 mask. You are legally required to do so"
+      },
+      {
+        "key": "CK",
+        "priority": "200",
+        "text": "Komfort Check-in possible (visit bahn.de/kci for more information)"
+      },
+      {
+        "key": "3G",
+        "priority": "205",
+        "text": "Nationwide «3G» rule applies on trains: valid proof must be presented"
+      },
+      {
+        "key": "FK",
+        "priority": "260",
+        "text": "Number of bicycles conveyed limited"
+      },
+      {
+        "key": "FR",
+        "priority": "260",
+        "text": "Bicycles conveyed - subject to reservation"
+      },
+      {
+        "key": "BR",
+        "priority": "450",
+        "text": "Bordrestaurant"
+      },
+      {
+        "key": "EH",
+        "priority": "560",
+        "text": "vehicle-mounted access aid"
+      }
+    ]
+  },
+  {
+    "stopId": 8002548,
+    "stopName": "Hamburg Dammtor",
+    "lat": "53.560751",
+    "lon": "9.989569",
+    "arrTime": "19:14",
+    "depTime": "19:15",
+    "train": "ICE 887",
+    "type": "ICE",
+    "operator": "DB",
+    "notes": [
+      {
+        "key": "PF",
+        "priority": "200",
+        "text": "Please wear an FFP2 mask. You are legally required to do so"
+      },
+      {
+        "key": "CK",
+        "priority": "200",
+        "text": "Komfort Check-in possible (visit bahn.de/kci for more information)"
+      },
+      {
+        "key": "3G",
+        "priority": "205",
+        "text": "Nationwide «3G» rule applies on trains: valid proof must be presented"
+      },
+      {
+        "key": "FK",
+        "priority": "260",
+        "text": "Number of bicycles conveyed limited"
+      },
+      {
+        "key": "FR",
+        "priority": "260",
+        "text": "Bicycles conveyed - subject to reservation"
+      },
+      {
+        "key": "BR",
+        "priority": "450",
+        "text": "Bordrestaurant"
+      },
+      {
+        "key": "EH",
+        "priority": "560",
+        "text": "vehicle-mounted access aid"
+      }
+    ]
+  },
+  {
+    "stopId": 8002549,
+    "stopName": "Hamburg Hbf",
+    "lat": "53.552733",
+    "lon": "10.006909",
+    "arrTime": "19:22",
+    "depTime": "19:28",
+    "train": "ICE 887",
+    "type": "ICE",
+    "operator": "DB",
+    "notes": [
+      {
+        "key": "PF",
+        "priority": "200",
+        "text": "Please wear an FFP2 mask. You are legally required to do so"
+      },
+      {
+        "key": "CK",
+        "priority": "200",
+        "text": "Komfort Check-in possible (visit bahn.de/kci for more information)"
+      },
+      {
+        "key": "3G",
+        "priority": "205",
+        "text": "Nationwide «3G» rule applies on trains: valid proof must be presented"
+      },
+      {
+        "key": "FK",
+        "priority": "260",
+        "text": "Number of bicycles conveyed limited"
+      },
+      {
+        "key": "FR",
+        "priority": "260",
+        "text": "Bicycles conveyed - subject to reservation"
+      },
+      {
+        "key": "BR",
+        "priority": "450",
+        "text": "Bordrestaurant"
+      },
+      {
+        "key": "EH",
+        "priority": "560",
+        "text": "vehicle-mounted access aid"
+      }
+    ]
+  },
+  {
+    "stopId": 8000147,
+    "stopName": "Hamburg-Harburg",
+    "lat": "53.455910",
+    "lon": "9.991699",
+    "arrTime": "19:37",
+    "depTime": "19:39",
+    "train": "ICE 887",
+    "type": "ICE",
+    "operator": "DB",
+    "notes": [
+      {
+        "key": "PF",
+        "priority": "200",
+        "text": "Please wear an FFP2 mask. You are legally required to do so"
+      },
+      {
+        "key": "CK",
+        "priority": "200",
+        "text": "Komfort Check-in possible (visit bahn.de/kci for more information)"
+      },
+      {
+        "key": "3G",
+        "priority": "205",
+        "text": "Nationwide «3G» rule applies on trains: valid proof must be presented"
+      },
+      {
+        "key": "FK",
+        "priority": "260",
+        "text": "Number of bicycles conveyed limited"
+      },
+      {
+        "key": "FR",
+        "priority": "260",
+        "text": "Bicycles conveyed - subject to reservation"
+      },
+      {
+        "key": "BR",
+        "priority": "450",
+        "text": "Bordrestaurant"
+      },
+      {
+        "key": "EH",
+        "priority": "560",
+        "text": "vehicle-mounted access aid"
+      }
+    ]
+  },
+  {
+    "stopId": 8000238,
+    "stopName": "Lüneburg",
+    "lat": "53.249652",
+    "lon": "10.419891",
+    "arrTime": "19:56",
+    "depTime": "19:58",
+    "train": "ICE 887",
+    "type": "ICE",
+    "operator": "DB",
+    "notes": [
+      {
+        "key": "PF",
+        "priority": "200",
+        "text": "Please wear an FFP2 mask. You are legally required to do so"
+      },
+      {
+        "key": "CK",
+        "priority": "200",
+        "text": "Komfort Check-in possible (visit bahn.de/kci for more information)"
+      },
+      {
+        "key": "3G",
+        "priority": "205",
+        "text": "Nationwide «3G» rule applies on trains: valid proof must be presented"
+      },
+      {
+        "key": "FK",
+        "priority": "260",
+        "text": "Number of bicycles conveyed limited"
+      },
+      {
+        "key": "FR",
+        "priority": "260",
+        "text": "Bicycles conveyed - subject to reservation"
+      },
+      {
+        "key": "BR",
+        "priority": "450",
+        "text": "Bordrestaurant"
+      },
+      {
+        "key": "EH",
+        "priority": "560",
+        "text": "vehicle-mounted access aid"
+      }
+    ]
+  },
+  {
+    "stopId": 8000168,
+    "stopName": "Uelzen",
+    "lat": "52.969782",
+    "lon": "10.553057",
+    "arrTime": "20:13",
+    "depTime": "20:15",
+    "train": "ICE 887",
+    "type": "ICE",
+    "operator": "DB",
+    "notes": [
+      {
+        "key": "PF",
+        "priority": "200",
+        "text": "Please wear an FFP2 mask. You are legally required to do so"
+      },
+      {
+        "key": "CK",
+        "priority": "200",
+        "text": "Komfort Check-in possible (visit bahn.de/kci for more information)"
+      },
+      {
+        "key": "3G",
+        "priority": "205",
+        "text": "Nationwide «3G» rule applies on trains: valid proof must be presented"
+      },
+      {
+        "key": "FK",
+        "priority": "260",
+        "text": "Number of bicycles conveyed limited"
+      },
+      {
+        "key": "FR",
+        "priority": "260",
+        "text": "Bicycles conveyed - subject to reservation"
+      },
+      {
+        "key": "BR",
+        "priority": "450",
+        "text": "Bordrestaurant"
+      },
+      {
+        "key": "EH",
+        "priority": "560",
+        "text": "vehicle-mounted access aid"
+      }
+    ]
+  },
+  {
+    "stopId": 8000064,
+    "stopName": "Celle",
+    "lat": "52.620452",
+    "lon": "10.062471",
+    "arrTime": "20:51",
+    "depTime": "20:53",
+    "train": "ICE 887",
+    "type": "ICE",
+    "operator": "DB",
+    "notes": [
+      {
+        "key": "PF",
+        "priority": "200",
+        "text": "Please wear an FFP2 mask. You are legally required to do so"
+      },
+      {
+        "key": "CK",
+        "priority": "200",
+        "text": "Komfort Check-in possible (visit bahn.de/kci for more information)"
+      },
+      {
+        "key": "3G",
+        "priority": "205",
+        "text": "Nationwide «3G» rule applies on trains: valid proof must be presented"
+      },
+      {
+        "key": "FK",
+        "priority": "260",
+        "text": "Number of bicycles conveyed limited"
+      },
+      {
+        "key": "FR",
+        "priority": "260",
+        "text": "Bicycles conveyed - subject to reservation"
+      },
+      {
+        "key": "BR",
+        "priority": "450",
+        "text": "Bordrestaurant"
+      },
+      {
+        "key": "EH",
+        "priority": "560",
+        "text": "vehicle-mounted access aid"
+      }
+    ]
+  },
+  {
+    "stopId": 8000152,
+    "stopName": "Hannover Hbf",
+    "lat": "52.376764",
+    "lon": "9.741017",
+    "arrTime": "21:20",
+    "depTime": "21:26",
+    "train": "ICE 887",
+    "type": "ICE",
+    "operator": "DB",
+    "notes": [
+      {
+        "key": "PF",
+        "priority": "200",
+        "text": "Please wear an FFP2 mask. You are legally required to do so"
+      },
+      {
+        "key": "CK",
+        "priority": "200",
+        "text": "Komfort Check-in possible (visit bahn.de/kci for more information)"
+      },
+      {
+        "key": "3G",
+        "priority": "205",
+        "text": "Nationwide «3G» rule applies on trains: valid proof must be presented"
+      },
+      {
+        "key": "FK",
+        "priority": "260",
+        "text": "Number of bicycles conveyed limited"
+      },
+      {
+        "key": "FR",
+        "priority": "260",
+        "text": "Bicycles conveyed - subject to reservation"
+      },
+      {
+        "key": "BR",
+        "priority": "450",
+        "text": "Bordrestaurant"
+      },
+      {
+        "key": "EH",
+        "priority": "560",
+        "text": "vehicle-mounted access aid"
+      }
+    ]
+  },
+  {
+    "stopId": 8000128,
+    "stopName": "Göttingen",
+    "lat": "51.536812",
+    "lon": "9.926069",
+    "arrTime": "22:00",
+    "depTime": "22:02",
+    "train": "ICE 887",
+    "type": "ICE",
+    "operator": "DB",
+    "notes": [
+      {
+        "key": "PF",
+        "priority": "200",
+        "text": "Please wear an FFP2 mask. You are legally required to do so"
+      },
+      {
+        "key": "CK",
+        "priority": "200",
+        "text": "Komfort Check-in possible (visit bahn.de/kci for more information)"
+      },
+      {
+        "key": "3G",
+        "priority": "205",
+        "text": "Nationwide «3G» rule applies on trains: valid proof must be presented"
+      },
+      {
+        "key": "FK",
+        "priority": "260",
+        "text": "Number of bicycles conveyed limited"
+      },
+      {
+        "key": "FR",
+        "priority": "260",
+        "text": "Bicycles conveyed - subject to reservation"
+      },
+      {
+        "key": "BR",
+        "priority": "450",
+        "text": "Bordrestaurant"
+      },
+      {
+        "key": "EH",
+        "priority": "560",
+        "text": "vehicle-mounted access aid"
+      }
+    ]
+  },
+  {
+    "stopId": 8003200,
+    "stopName": "Kassel-Wilhelmshöhe",
+    "lat": "51.313115",
+    "lon": "9.446899",
+    "arrTime": "22:21",
+    "depTime": "22:23",
+    "train": "ICE 887",
+    "type": "ICE",
+    "operator": "DB",
+    "notes": [
+      {
+        "key": "PF",
+        "priority": "200",
+        "text": "Please wear an FFP2 mask. You are legally required to do so"
+      },
+      {
+        "key": "CK",
+        "priority": "200",
+        "text": "Komfort Check-in possible (visit bahn.de/kci for more information)"
+      },
+      {
+        "key": "3G",
+        "priority": "205",
+        "text": "Nationwide «3G» rule applies on trains: valid proof must be presented"
+      },
+      {
+        "key": "FK",
+        "priority": "260",
+        "text": "Number of bicycles conveyed limited"
+      },
+      {
+        "key": "FR",
+        "priority": "260",
+        "text": "Bicycles conveyed - subject to reservation"
+      },
+      {
+        "key": "BR",
+        "priority": "450",
+        "text": "Bordrestaurant"
+      },
+      {
+        "key": "EH",
+        "priority": "560",
+        "text": "vehicle-mounted access aid"
+      }
+    ]
+  },
+  {
+    "stopId": 8000115,
+    "stopName": "Fulda",
+    "lat": "50.554722",
+    "lon": "9.683980",
+    "arrTime": "22:54",
+    "depTime": "22:56",
+    "train": "ICE 887",
+    "type": "ICE",
+    "operator": "DB",
+    "notes": [
+      {
+        "key": "PF",
+        "priority": "200",
+        "text": "Please wear an FFP2 mask. You are legally required to do so"
+      },
+      {
+        "key": "CK",
+        "priority": "200",
+        "text": "Komfort Check-in possible (visit bahn.de/kci for more information)"
+      },
+      {
+        "key": "3G",
+        "priority": "205",
+        "text": "Nationwide «3G» rule applies on trains: valid proof must be presented"
+      },
+      {
+        "key": "FK",
+        "priority": "260",
+        "text": "Number of bicycles conveyed limited"
+      },
+      {
+        "key": "FR",
+        "priority": "260",
+        "text": "Bicycles conveyed - subject to reservation"
+      },
+      {
+        "key": "BR",
+        "priority": "450",
+        "text": "Bordrestaurant"
+      },
+      {
+        "key": "EH",
+        "priority": "560",
+        "text": "vehicle-mounted access aid"
+      }
+    ]
+  },
+  {
+    "stopId": 8000150,
+    "stopName": "Hanau Hbf",
+    "lat": "50.120957",
+    "lon": "8.929003",
+    "arrTime": "23:34",
+    "depTime": "23:35",
+    "train": "ICE 887",
+    "type": "ICE",
+    "operator": "DB",
+    "notes": [
+      {
+        "key": "PF",
+        "priority": "200",
+        "text": "Please wear an FFP2 mask. You are legally required to do so"
+      },
+      {
+        "key": "CK",
+        "priority": "200",
+        "text": "Komfort Check-in possible (visit bahn.de/kci for more information)"
+      },
+      {
+        "key": "3G",
+        "priority": "205",
+        "text": "Nationwide «3G» rule applies on trains: valid proof must be presented"
+      },
+      {
+        "key": "FK",
+        "priority": "260",
+        "text": "Number of bicycles conveyed limited"
+      },
+      {
+        "key": "FR",
+        "priority": "260",
+        "text": "Bicycles conveyed - subject to reservation"
+      },
+      {
+        "key": "BR",
+        "priority": "450",
+        "text": "Bordrestaurant"
+      },
+      {
+        "key": "EH",
+        "priority": "560",
+        "text": "vehicle-mounted access aid"
+      }
+    ]
+  },
+  {
+    "stopId": 8000105,
+    "stopName": "Frankfurt&#x0028;Main&#x0029;Hbf",
+    "lat": "50.107149",
+    "lon": "8.663785",
+    "arrTime": "23:53",
+    "depTime": "00:13",
+    "train": "ICE 887",
+    "type": "ICE",
+    "operator": "DB",
+    "notes": [
+      {
+        "key": "PF",
+        "priority": "200",
+        "text": "Please wear an FFP2 mask. You are legally required to do so"
+      },
+      {
+        "key": "CK",
+        "priority": "200",
+        "text": "Komfort Check-in possible (visit bahn.de/kci for more information)"
+      },
+      {
+        "key": "3G",
+        "priority": "205",
+        "text": "Nationwide «3G» rule applies on trains: valid proof must be presented"
+      },
+      {
+        "key": "FK",
+        "priority": "260",
+        "text": "Number of bicycles conveyed limited"
+      },
+      {
+        "key": "FR",
+        "priority": "260",
+        "text": "Bicycles conveyed - subject to reservation"
+      },
+      {
+        "key": "BR",
+        "priority": "450",
+        "text": "Bordrestaurant"
+      },
+      {
+        "key": "EH",
+        "priority": "560",
+        "text": "vehicle-mounted access aid"
+      }
+    ]
+  },
+  {
+    "stopId": 8070003,
+    "stopName": "Frankfurt&#x0028;M&#x0029; Flughafen Fernbf",
+    "lat": "50.053169",
+    "lon": "8.570181",
+    "arrTime": "00:25",
+    "depTime": "00:27",
+    "train": "ICE 887",
+    "type": "ICE",
+    "operator": "DB",
+    "notes": [
+      {
+        "key": "PF",
+        "priority": "200",
+        "text": "Please wear an FFP2 mask. You are legally required to do so"
+      },
+      {
+        "key": "CK",
+        "priority": "200",
+        "text": "Komfort Check-in possible (visit bahn.de/kci for more information)"
+      },
+      {
+        "key": "3G",
+        "priority": "205",
+        "text": "Nationwide «3G» rule applies on trains: valid proof must be presented"
+      },
+      {
+        "key": "FK",
+        "priority": "260",
+        "text": "Number of bicycles conveyed limited"
+      },
+      {
+        "key": "FR",
+        "priority": "260",
+        "text": "Bicycles conveyed - subject to reservation"
+      },
+      {
+        "key": "EH",
+        "priority": "560",
+        "text": "vehicle-mounted access aid"
+      }
+    ]
+  },
+  {
+    "stopId": 8000240,
+    "stopName": "Mainz Hbf",
+    "lat": "50.001113",
+    "lon": "8.258723",
+    "arrTime": "00:44",
+    "depTime": "00:46",
+    "train": "ICE 887",
+    "type": "ICE",
+    "operator": "DB",
+    "notes": [
+      {
+        "key": "PF",
+        "priority": "200",
+        "text": "Please wear an FFP2 mask. You are legally required to do so"
+      },
+      {
+        "key": "CK",
+        "priority": "200",
+        "text": "Komfort Check-in possible (visit bahn.de/kci for more information)"
+      },
+      {
+        "key": "3G",
+        "priority": "205",
+        "text": "Nationwide «3G» rule applies on trains: valid proof must be presented"
+      },
+      {
+        "key": "FK",
+        "priority": "260",
+        "text": "Number of bicycles conveyed limited"
+      },
+      {
+        "key": "FR",
+        "priority": "260",
+        "text": "Bicycles conveyed - subject to reservation"
+      },
+      {
+        "key": "EH",
+        "priority": "560",
+        "text": "vehicle-mounted access aid"
+      }
+    ]
+  },
+  {
+    "stopId": 8000250,
+    "stopName": "Wiesbaden Hbf",
+    "lat": "50.070788",
+    "lon": "8.243729",
+    "arrTime": "00:58",
+    "train": "ICE 887",
+    "type": "ICE",
+    "operator": "DB",
+    "notes": [
+      {
+        "key": "PF",
+        "priority": "200",
+        "text": "Please wear an FFP2 mask. You are legally required to do so"
+      },
+      {
+        "key": "CK",
+        "priority": "200",
+        "text": "Komfort Check-in possible (visit bahn.de/kci for more information)"
+      },
+      {
+        "key": "3G",
+        "priority": "205",
+        "text": "Nationwide «3G» rule applies on trains: valid proof must be presented"
+      },
+      {
+        "key": "FK",
+        "priority": "260",
+        "text": "Number of bicycles conveyed limited"
+      },
+      {
+        "key": "FR",
+        "priority": "260",
+        "text": "Bicycles conveyed - subject to reservation"
+      },
+      {
+        "key": "EH",
+        "priority": "560",
+        "text": "vehicle-mounted access aid"
+      }
+    ]
+  },
+  {
+    "stopId": 8002549,
+    "stopName": "Hamburg Hbf",
+    "lat": "53.552733",
+    "lon": "10.006909",
+    "depTime": "09:43",
+    "train": "ICE 636",
+    "type": "ICE",
+    "operator": "DB",
+    "notes": [
+      {
+        "key": "PF",
+        "priority": "200",
+        "text": "Please wear an FFP2 mask. You are legally required to do so"
+      },
+      {
+        "key": "CK",
+        "priority": "200",
+        "text": "Komfort Check-in possible (visit bahn.de/kci for more information)"
+      },
+      {
+        "key": "3G",
+        "priority": "205",
+        "text": "Nationwide «3G» rule applies on trains: valid proof must be presented"
+      },
+      {
+        "key": "BR",
+        "priority": "450",
+        "text": "Bordrestaurant"
+      }
+    ]
+  },
+  {
+    "stopId": 8010324,
+    "stopName": "Schwerin Hbf",
+    "lat": "53.634741",
+    "lon": "11.407455",
+    "arrTime": "10:37",
+    "depTime": "10:38",
+    "train": "ICE 636",
+    "type": "ICE",
+    "operator": "DB",
+    "notes": [
+      {
+        "key": "PF",
+        "priority": "200",
+        "text": "Please wear an FFP2 mask. You are legally required to do so"
+      },
+      {
+        "key": "CK",
+        "priority": "200",
+        "text": "Komfort Check-in possible (visit bahn.de/kci for more information)"
+      },
+      {
+        "key": "3G",
+        "priority": "205",
+        "text": "Nationwide «3G» rule applies on trains: valid proof must be presented"
+      },
+      {
+        "key": "BR",
+        "priority": "450",
+        "text": "Bordrestaurant"
+      }
+    ]
+  },
+  {
+    "stopId": 8010066,
+    "stopName": "Bützow",
+    "lat": "53.837115",
+    "lon": "11.998190",
+    "arrTime": "11:08",
+    "depTime": "11:10",
+    "train": "ICE 636",
+    "type": "ICE",
+    "operator": "DB",
+    "notes": [
+      {
+        "key": "PF",
+        "priority": "200",
+        "text": "Please wear an FFP2 mask. You are legally required to do so"
+      },
+      {
+        "key": "CK",
+        "priority": "200",
+        "text": "Komfort Check-in possible (visit bahn.de/kci for more information)"
+      },
+      {
+        "key": "3G",
+        "priority": "205",
+        "text": "Nationwide «3G» rule applies on trains: valid proof must be presented"
+      },
+      {
+        "key": "BR",
+        "priority": "450",
+        "text": "Bordrestaurant"
+      }
+    ]
+  },
+  {
+    "stopId": 8010304,
+    "stopName": "Rostock Hbf",
+    "lat": "54.078242",
+    "lon": "12.131078",
+    "arrTime": "11:32",
+    "depTime": "11:38",
+    "train": "ICE 636",
+    "type": "ICE",
+    "operator": "DB",
+    "notes": [
+      {
+        "key": "NG",
+        "priority": "100",
+        "text": "Except special offers, DB local transport tickets are valid"
+      },
+      {
+        "key": "PF",
+        "priority": "200",
+        "text": "Please wear an FFP2 mask. You are legally required to do so"
+      },
+      {
+        "key": "CK",
+        "priority": "200",
+        "text": "Komfort Check-in possible (visit bahn.de/kci for more information)"
+      },
+      {
+        "key": "3G",
+        "priority": "205",
+        "text": "Nationwide «3G» rule applies on trains: valid proof must be presented"
+      },
+      {
+        "key": "QN",
+        "priority": "280",
+        "text": "Quer-durchs-Land-Ticket not valid"
+      },
+      {
+        "key": "LN",
+        "priority": "280",
+        "text": "Ländertickets not valid"
+      },
+      {
+        "key": "BR",
+        "priority": "450",
+        "text": "Bordrestaurant"
+      }
+    ]
+  },
+  {
+    "stopId": 8012762,
+    "stopName": "Ribnitz-Damgarten Ost",
+    "lat": "54.251015",
+    "lon": "12.487015",
+    "arrTime": "12:00",
+    "depTime": "12:02",
+    "train": "ICE 636",
+    "type": "ICE",
+    "operator": "DB",
+    "notes": [
+      {
+        "key": "NG",
+        "priority": "100",
+        "text": "Except special offers, DB local transport tickets are valid"
+      },
+      {
+        "key": "PF",
+        "priority": "200",
+        "text": "Please wear an FFP2 mask. You are legally required to do so"
+      },
+      {
+        "key": "CK",
+        "priority": "200",
+        "text": "Komfort Check-in possible (visit bahn.de/kci for more information)"
+      },
+      {
+        "key": "3G",
+        "priority": "205",
+        "text": "Nationwide «3G» rule applies on trains: valid proof must be presented"
+      },
+      {
+        "key": "QN",
+        "priority": "280",
+        "text": "Quer-durchs-Land-Ticket not valid"
+      },
+      {
+        "key": "LN",
+        "priority": "280",
+        "text": "Ländertickets not valid"
+      },
+      {
+        "key": "BR",
+        "priority": "450",
+        "text": "Bordrestaurant"
+      }
+    ]
+  },
+  {
+    "stopId": 8010355,
+    "stopName": "Velgast",
+    "lat": "54.277317",
+    "lon": "12.803138",
+    "arrTime": "12:14",
+    "depTime": "12:15",
+    "train": "ICE 636",
+    "type": "ICE",
+    "operator": "DB",
+    "notes": [
+      {
+        "key": "NG",
+        "priority": "100",
+        "text": "Except special offers, DB local transport tickets are valid"
+      },
+      {
+        "key": "PF",
+        "priority": "200",
+        "text": "Please wear an FFP2 mask. You are legally required to do so"
+      },
+      {
+        "key": "CK",
+        "priority": "200",
+        "text": "Komfort Check-in possible (visit bahn.de/kci for more information)"
+      },
+      {
+        "key": "3G",
+        "priority": "205",
+        "text": "Nationwide «3G» rule applies on trains: valid proof must be presented"
+      },
+      {
+        "key": "QN",
+        "priority": "280",
+        "text": "Quer-durchs-Land-Ticket not valid"
+      },
+      {
+        "key": "LN",
+        "priority": "280",
+        "text": "Ländertickets not valid"
+      },
+      {
+        "key": "BR",
+        "priority": "450",
+        "text": "Bordrestaurant"
+      }
+    ]
+  },
+  {
+    "stopId": 8010338,
+    "stopName": "Stralsund Hbf",
+    "lat": "54.308627",
+    "lon": "13.077318",
+    "arrTime": "12:30",
+    "train": "ICE 636",
+    "type": "ICE",
+    "operator": "DB",
+    "notes": [
+      {
+        "key": "NG",
+        "priority": "100",
+        "text": "Except special offers, DB local transport tickets are valid"
+      },
+      {
+        "key": "PF",
+        "priority": "200",
+        "text": "Please wear an FFP2 mask. You are legally required to do so"
+      },
+      {
+        "key": "CK",
+        "priority": "200",
+        "text": "Komfort Check-in possible (visit bahn.de/kci for more information)"
+      },
+      {
+        "key": "3G",
+        "priority": "205",
+        "text": "Nationwide «3G» rule applies on trains: valid proof must be presented"
+      },
+      {
+        "key": "QN",
+        "priority": "280",
+        "text": "Quer-durchs-Land-Ticket not valid"
+      },
+      {
+        "key": "LN",
+        "priority": "280",
+        "text": "Ländertickets not valid"
+      },
+      {
+        "key": "BR",
+        "priority": "450",
+        "text": "Bordrestaurant"
+      }
+    ]
+  },
+  {
+    "stopId": 8010255,
+    "stopName": "Berlin Ostbahnhof",
+    "lat": "52.510487",
+    "lon": "13.434684",
+    "depTime": "08:18",
+    "train": "ICE 279",
+    "type": "ICE",
+    "operator": "DB",
+    "notes": [
+      {
+        "key": "PF",
+        "priority": "200",
+        "text": "Please wear an FFP2 mask. You are legally required to do so"
+      },
+      {
+        "key": "CK",
+        "priority": "200",
+        "text": "Komfort Check-in possible (visit bahn.de/kci for more information)"
+      },
+      {
+        "key": "3G",
+        "priority": "205",
+        "text": "Nationwide «3G» rule applies on trains: valid proof must be presented"
+      },
+      {
+        "key": "FK",
+        "priority": "260",
+        "text": "Number of bicycles conveyed limited"
+      },
+      {
+        "key": "FR",
+        "priority": "260",
+        "text": "Bicycles conveyed - subject to reservation"
+      },
+      {
+        "key": "BR",
+        "priority": "450",
+        "text": "Bordrestaurant"
+      },
+      {
+        "key": "EH",
+        "priority": "560",
+        "text": "vehicle-mounted access aid"
+      }
+    ]
+  },
+  {
+    "stopId": 8011160,
+    "stopName": "Berlin Hbf",
+    "lat": "52.525589",
+    "lon": "13.369549",
+    "arrTime": "08:26",
+    "depTime": "08:30",
+    "train": "ICE 279",
+    "type": "ICE",
+    "operator": "DB",
+    "notes": [
+      {
+        "key": "PF",
+        "priority": "200",
+        "text": "Please wear an FFP2 mask. You are legally required to do so"
+      },
+      {
+        "key": "CK",
+        "priority": "200",
+        "text": "Komfort Check-in possible (visit bahn.de/kci for more information)"
+      },
+      {
+        "key": "3G",
+        "priority": "205",
+        "text": "Nationwide «3G» rule applies on trains: valid proof must be presented"
+      },
+      {
+        "key": "FK",
+        "priority": "260",
+        "text": "Number of bicycles conveyed limited"
+      },
+      {
+        "key": "FR",
+        "priority": "260",
+        "text": "Bicycles conveyed - subject to reservation"
+      },
+      {
+        "key": "BR",
+        "priority": "450",
+        "text": "Bordrestaurant"
+      },
+      {
+        "key": "EH",
+        "priority": "560",
+        "text": "vehicle-mounted access aid"
+      }
+    ]
+  },
+  {
+    "stopId": 8010404,
+    "stopName": "Berlin-Spandau",
+    "lat": "52.534650",
+    "lon": "13.196902",
+    "arrTime": "08:43",
+    "depTime": "08:45",
+    "train": "ICE 279",
+    "type": "ICE",
+    "operator": "DB",
+    "notes": [
+      {
+        "key": "PF",
+        "priority": "200",
+        "text": "Please wear an FFP2 mask. You are legally required to do so"
+      },
+      {
+        "key": "CK",
+        "priority": "200",
+        "text": "Komfort Check-in possible (visit bahn.de/kci for more information)"
+      },
+      {
+        "key": "3G",
+        "priority": "205",
+        "text": "Nationwide «3G» rule applies on trains: valid proof must be presented"
+      },
+      {
+        "key": "FK",
+        "priority": "260",
+        "text": "Number of bicycles conveyed limited"
+      },
+      {
+        "key": "FR",
+        "priority": "260",
+        "text": "Bicycles conveyed - subject to reservation"
+      },
+      {
+        "key": "BR",
+        "priority": "450",
+        "text": "Bordrestaurant"
+      },
+      {
+        "key": "EH",
+        "priority": "560",
+        "text": "vehicle-mounted access aid"
+      }
+    ]
+  },
+  {
+    "stopId": 8006552,
+    "stopName": "Wolfsburg Hbf",
+    "lat": "52.429495",
+    "lon": "10.787784",
+    "arrTime": "09:37",
+    "depTime": "09:38",
+    "train": "ICE 279",
+    "type": "ICE",
+    "operator": "DB",
+    "notes": [
+      {
+        "key": "PF",
+        "priority": "200",
+        "text": "Please wear an FFP2 mask. You are legally required to do so"
+      },
+      {
+        "key": "CK",
+        "priority": "200",
+        "text": "Komfort Check-in possible (visit bahn.de/kci for more information)"
+      },
+      {
+        "key": "3G",
+        "priority": "205",
+        "text": "Nationwide «3G» rule applies on trains: valid proof must be presented"
+      },
+      {
+        "key": "FK",
+        "priority": "260",
+        "text": "Number of bicycles conveyed limited"
+      },
+      {
+        "key": "FR",
+        "priority": "260",
+        "text": "Bicycles conveyed - subject to reservation"
+      },
+      {
+        "key": "BR",
+        "priority": "450",
+        "text": "Bordrestaurant"
+      },
+      {
+        "key": "EH",
+        "priority": "560",
+        "text": "vehicle-mounted access aid"
+      }
+    ]
+  },
+  {
+    "stopId": 8000049,
+    "stopName": "Braunschweig Hbf",
+    "lat": "52.252218",
+    "lon": "10.540293",
+    "arrTime": "09:55",
+    "depTime": "09:57",
+    "train": "ICE 279",
+    "type": "ICE",
+    "operator": "DB",
+    "notes": [
+      {
+        "key": "PF",
+        "priority": "200",
+        "text": "Please wear an FFP2 mask. You are legally required to do so"
+      },
+      {
+        "key": "CK",
+        "priority": "200",
+        "text": "Komfort Check-in possible (visit bahn.de/kci for more information)"
+      },
+      {
+        "key": "3G",
+        "priority": "205",
+        "text": "Nationwide «3G» rule applies on trains: valid proof must be presented"
+      },
+      {
+        "key": "FK",
+        "priority": "260",
+        "text": "Number of bicycles conveyed limited"
+      },
+      {
+        "key": "FR",
+        "priority": "260",
+        "text": "Bicycles conveyed - subject to reservation"
+      },
+      {
+        "key": "BR",
+        "priority": "450",
+        "text": "Bordrestaurant"
+      },
+      {
+        "key": "EH",
+        "priority": "560",
+        "text": "vehicle-mounted access aid"
+      }
+    ]
+  },
+  {
+    "stopId": 8000169,
+    "stopName": "Hildesheim Hbf",
+    "lat": "52.160627",
+    "lon": "9.953495",
+    "arrTime": "10:18",
+    "depTime": "10:19",
+    "train": "ICE 279",
+    "type": "ICE",
+    "operator": "DB",
+    "notes": [
+      {
+        "key": "PF",
+        "priority": "200",
+        "text": "Please wear an FFP2 mask. You are legally required to do so"
+      },
+      {
+        "key": "CK",
+        "priority": "200",
+        "text": "Komfort Check-in possible (visit bahn.de/kci for more information)"
+      },
+      {
+        "key": "3G",
+        "priority": "205",
+        "text": "Nationwide «3G» rule applies on trains: valid proof must be presented"
+      },
+      {
+        "key": "FK",
+        "priority": "260",
+        "text": "Number of bicycles conveyed limited"
+      },
+      {
+        "key": "FR",
+        "priority": "260",
+        "text": "Bicycles conveyed - subject to reservation"
+      },
+      {
+        "key": "BR",
+        "priority": "450",
+        "text": "Bordrestaurant"
+      },
+      {
+        "key": "EH",
+        "priority": "560",
+        "text": "vehicle-mounted access aid"
+      }
+    ]
+  },
+  {
+    "stopId": 8000128,
+    "stopName": "Göttingen",
+    "lat": "51.536812",
+    "lon": "9.926069",
+    "arrTime": "10:50",
+    "depTime": "10:52",
+    "train": "ICE 279",
+    "type": "ICE",
+    "operator": "DB",
+    "notes": [
+      {
+        "key": "PF",
+        "priority": "200",
+        "text": "Please wear an FFP2 mask. You are legally required to do so"
+      },
+      {
+        "key": "CK",
+        "priority": "200",
+        "text": "Komfort Check-in possible (visit bahn.de/kci for more information)"
+      },
+      {
+        "key": "3G",
+        "priority": "205",
+        "text": "Nationwide «3G» rule applies on trains: valid proof must be presented"
+      },
+      {
+        "key": "FK",
+        "priority": "260",
+        "text": "Number of bicycles conveyed limited"
+      },
+      {
+        "key": "FR",
+        "priority": "260",
+        "text": "Bicycles conveyed - subject to reservation"
+      },
+      {
+        "key": "BR",
+        "priority": "450",
+        "text": "Bordrestaurant"
+      },
+      {
+        "key": "EH",
+        "priority": "560",
+        "text": "vehicle-mounted access aid"
+      }
+    ]
+  },
+  {
+    "stopId": 8003200,
+    "stopName": "Kassel-Wilhelmshöhe",
+    "lat": "51.313115",
+    "lon": "9.446899",
+    "arrTime": "11:12",
+    "depTime": "11:14",
+    "train": "ICE 279",
+    "type": "ICE",
+    "operator": "DB",
+    "notes": [
+      {
+        "key": "PF",
+        "priority": "200",
+        "text": "Please wear an FFP2 mask. You are legally required to do so"
+      },
+      {
+        "key": "CK",
+        "priority": "200",
+        "text": "Komfort Check-in possible (visit bahn.de/kci for more information)"
+      },
+      {
+        "key": "3G",
+        "priority": "205",
+        "text": "Nationwide «3G» rule applies on trains: valid proof must be presented"
+      },
+      {
+        "key": "FK",
+        "priority": "260",
+        "text": "Number of bicycles conveyed limited"
+      },
+      {
+        "key": "FR",
+        "priority": "260",
+        "text": "Bicycles conveyed - subject to reservation"
+      },
+      {
+        "key": "BR",
+        "priority": "450",
+        "text": "Bordrestaurant"
+      },
+      {
+        "key": "EH",
+        "priority": "560",
+        "text": "vehicle-mounted access aid"
+      }
+    ]
+  },
+  {
+    "stopId": 8000115,
+    "stopName": "Fulda",
+    "lat": "50.554722",
+    "lon": "9.683980",
+    "arrTime": "11:45",
+    "depTime": "11:47",
+    "train": "ICE 279",
+    "type": "ICE",
+    "operator": "DB",
+    "notes": [
+      {
+        "key": "PF",
+        "priority": "200",
+        "text": "Please wear an FFP2 mask. You are legally required to do so"
+      },
+      {
+        "key": "CK",
+        "priority": "200",
+        "text": "Komfort Check-in possible (visit bahn.de/kci for more information)"
+      },
+      {
+        "key": "3G",
+        "priority": "205",
+        "text": "Nationwide «3G» rule applies on trains: valid proof must be presented"
+      },
+      {
+        "key": "FK",
+        "priority": "260",
+        "text": "Number of bicycles conveyed limited"
+      },
+      {
+        "key": "FR",
+        "priority": "260",
+        "text": "Bicycles conveyed - subject to reservation"
+      },
+      {
+        "key": "BR",
+        "priority": "450",
+        "text": "Bordrestaurant"
+      },
+      {
+        "key": "EH",
+        "priority": "560",
+        "text": "vehicle-mounted access aid"
+      }
+    ]
+  },
+  {
+    "stopId": 8000150,
+    "stopName": "Hanau Hbf",
+    "lat": "50.120957",
+    "lon": "8.929003",
+    "arrTime": "12:25",
+    "depTime": "12:27",
+    "train": "ICE 279",
+    "type": "ICE",
+    "operator": "DB",
+    "notes": [
+      {
+        "key": "PF",
+        "priority": "200",
+        "text": "Please wear an FFP2 mask. You are legally required to do so"
+      },
+      {
+        "key": "CK",
+        "priority": "200",
+        "text": "Komfort Check-in possible (visit bahn.de/kci for more information)"
+      },
+      {
+        "key": "3G",
+        "priority": "205",
+        "text": "Nationwide «3G» rule applies on trains: valid proof must be presented"
+      },
+      {
+        "key": "FK",
+        "priority": "260",
+        "text": "Number of bicycles conveyed limited"
+      },
+      {
+        "key": "FR",
+        "priority": "260",
+        "text": "Bicycles conveyed - subject to reservation"
+      },
+      {
+        "key": "BR",
+        "priority": "450",
+        "text": "Bordrestaurant"
+      },
+      {
+        "key": "EH",
+        "priority": "560",
+        "text": "vehicle-mounted access aid"
+      }
+    ]
+  },
+  {
+    "stopId": 8000105,
+    "stopName": "Frankfurt&#x0028;Main&#x0029;Hbf",
+    "lat": "50.107149",
+    "lon": "8.663785",
+    "arrTime": "12:44",
+    "depTime": "12:50",
+    "train": "ICE 279",
+    "type": "ICE",
+    "operator": "DB",
+    "notes": [
+      {
+        "key": "PF",
+        "priority": "200",
+        "text": "Please wear an FFP2 mask. You are legally required to do so"
+      },
+      {
+        "key": "CK",
+        "priority": "200",
+        "text": "Komfort Check-in possible (visit bahn.de/kci for more information)"
+      },
+      {
+        "key": "3G",
+        "priority": "205",
+        "text": "Nationwide «3G» rule applies on trains: valid proof must be presented"
+      },
+      {
+        "key": "FK",
+        "priority": "260",
+        "text": "Number of bicycles conveyed limited"
+      },
+      {
+        "key": "FR",
+        "priority": "260",
+        "text": "Bicycles conveyed - subject to reservation"
+      },
+      {
+        "key": "BR",
+        "priority": "450",
+        "text": "Bordrestaurant"
+      },
+      {
+        "key": "EH",
+        "priority": "560",
+        "text": "vehicle-mounted access aid"
+      }
+    ]
+  },
+  {
+    "stopId": 8000244,
+    "stopName": "Mannheim Hbf",
+    "lat": "49.479352",
+    "lon": "8.468917",
+    "arrTime": "13:27",
+    "depTime": "13:35",
+    "train": "ICE 279",
+    "type": "ICE",
+    "operator": "DB",
+    "notes": [
+      {
+        "key": "PF",
+        "priority": "200",
+        "text": "Please wear an FFP2 mask. You are legally required to do so"
+      },
+      {
+        "key": "CK",
+        "priority": "200",
+        "text": "Komfort Check-in possible (visit bahn.de/kci for more information)"
+      },
+      {
+        "key": "3G",
+        "priority": "205",
+        "text": "Nationwide «3G» rule applies on trains: valid proof must be presented"
+      },
+      {
+        "key": "FK",
+        "priority": "260",
+        "text": "Number of bicycles conveyed limited"
+      },
+      {
+        "key": "FR",
+        "priority": "260",
+        "text": "Bicycles conveyed - subject to reservation"
+      },
+      {
+        "key": "BR",
+        "priority": "450",
+        "text": "Bordrestaurant"
+      },
+      {
+        "key": "EH",
+        "priority": "560",
+        "text": "vehicle-mounted access aid"
+      }
+    ]
+  },
+  {
+    "stopId": 8000191,
+    "stopName": "Karlsruhe Hbf",
+    "lat": "48.993512",
+    "lon": "8.402181",
+    "arrTime": "13:58",
+    "depTime": "14:00",
+    "train": "ICE 279",
+    "type": "ICE",
+    "operator": "DB",
+    "notes": [
+      {
+        "key": "PF",
+        "priority": "200",
+        "text": "Please wear an FFP2 mask. You are legally required to do so"
+      },
+      {
+        "key": "CK",
+        "priority": "200",
+        "text": "Komfort Check-in possible (visit bahn.de/kci for more information)"
+      },
+      {
+        "key": "3G",
+        "priority": "205",
+        "text": "Nationwide «3G» rule applies on trains: valid proof must be presented"
+      },
+      {
+        "key": "FK",
+        "priority": "260",
+        "text": "Number of bicycles conveyed limited"
+      },
+      {
+        "key": "FR",
+        "priority": "260",
+        "text": "Bicycles conveyed - subject to reservation"
+      },
+      {
+        "key": "BR",
+        "priority": "450",
+        "text": "Bordrestaurant"
+      },
+      {
+        "key": "EH",
+        "priority": "560",
+        "text": "vehicle-mounted access aid"
+      }
+    ]
+  },
+  {
+    "stopId": 8000290,
+    "stopName": "Offenburg",
+    "lat": "48.476479",
+    "lon": "7.946725",
+    "arrTime": "14:29",
+    "depTime": "14:30",
+    "train": "ICE 279",
+    "type": "ICE",
+    "operator": "DB",
+    "notes": [
+      {
+        "key": "PF",
+        "priority": "200",
+        "text": "Please wear an FFP2 mask. You are legally required to do so"
+      },
+      {
+        "key": "CK",
+        "priority": "200",
+        "text": "Komfort Check-in possible (visit bahn.de/kci for more information)"
+      },
+      {
+        "key": "3G",
+        "priority": "205",
+        "text": "Nationwide «3G» rule applies on trains: valid proof must be presented"
+      },
+      {
+        "key": "FK",
+        "priority": "260",
+        "text": "Number of bicycles conveyed limited"
+      },
+      {
+        "key": "FR",
+        "priority": "260",
+        "text": "Bicycles conveyed - subject to reservation"
+      },
+      {
+        "key": "BR",
+        "priority": "450",
+        "text": "Bordrestaurant"
+      },
+      {
+        "key": "EH",
+        "priority": "560",
+        "text": "vehicle-mounted access aid"
+      }
+    ]
+  },
+  {
+    "stopId": 8000107,
+    "stopName": "Freiburg&#x0028;Breisgau&#x0029; Hbf",
+    "lat": "47.997696",
+    "lon": "7.841174",
+    "arrTime": "15:00",
+    "depTime": "15:01",
+    "train": "ICE 279",
+    "type": "ICE",
+    "operator": "DB",
+    "notes": [
+      {
+        "key": "PF",
+        "priority": "200",
+        "text": "Please wear an FFP2 mask. You are legally required to do so"
+      },
+      {
+        "key": "CK",
+        "priority": "200",
+        "text": "Komfort Check-in possible (visit bahn.de/kci for more information)"
+      },
+      {
+        "key": "3G",
+        "priority": "205",
+        "text": "Nationwide «3G» rule applies on trains: valid proof must be presented"
+      },
+      {
+        "key": "FK",
+        "priority": "260",
+        "text": "Number of bicycles conveyed limited"
+      },
+      {
+        "key": "FR",
+        "priority": "260",
+        "text": "Bicycles conveyed - subject to reservation"
+      },
+      {
+        "key": "BR",
+        "priority": "450",
+        "text": "Bordrestaurant"
+      },
+      {
+        "key": "EH",
+        "priority": "560",
+        "text": "vehicle-mounted access aid"
+      }
+    ]
+  },
+  {
+    "stopId": 8000026,
+    "stopName": "Basel Bad Bf",
+    "lat": "47.567292",
+    "lon": "7.607805",
+    "arrTime": "15:35",
+    "depTime": "15:40",
+    "train": "ICE 279",
+    "type": "ICE",
+    "operator": "DB",
+    "notes": [
+      {
+        "key": "PF",
+        "priority": "200",
+        "text": "Please wear an FFP2 mask. You are legally required to do so"
+      },
+      {
+        "key": "CK",
+        "priority": "200",
+        "text": "Komfort Check-in possible (visit bahn.de/kci for more information)"
+      },
+      {
+        "key": "3G",
+        "priority": "205",
+        "text": "Nationwide «3G» rule applies on trains: valid proof must be presented"
+      },
+      {
+        "key": "FK",
+        "priority": "260",
+        "text": "Number of bicycles conveyed limited"
+      },
+      {
+        "key": "FR",
+        "priority": "260",
+        "text": "Bicycles conveyed - subject to reservation"
+      },
+      {
+        "key": "BR",
+        "priority": "450",
+        "text": "Bordrestaurant"
+      },
+      {
+        "key": "EH",
+        "priority": "560",
+        "text": "vehicle-mounted access aid"
+      }
+    ]
+  },
+  {
+    "stopId": 8500010,
+    "stopName": "Basel SBB",
+    "lat": "47.547408",
+    "lon": "7.589548",
+    "arrTime": "15:47",
+    "train": "ICE 279",
+    "type": "ICE",
+    "operator": "DB",
+    "notes": [
+      {
+        "key": "PF",
+        "priority": "200",
+        "text": "Please wear an FFP2 mask. You are legally required to do so"
+      },
+      {
+        "key": "CK",
+        "priority": "200",
+        "text": "Komfort Check-in possible (visit bahn.de/kci for more information)"
+      },
+      {
+        "key": "3G",
+        "priority": "205",
+        "text": "Nationwide «3G» rule applies on trains: valid proof must be presented"
+      },
+      {
+        "key": "FK",
+        "priority": "260",
+        "text": "Number of bicycles conveyed limited"
+      },
+      {
+        "key": "FR",
+        "priority": "260",
+        "text": "Bicycles conveyed - subject to reservation"
+      },
+      {
+        "key": "BR",
+        "priority": "450",
+        "text": "Bordrestaurant"
+      },
+      {
+        "key": "EH",
+        "priority": "560",
+        "text": "vehicle-mounted access aid"
+      }
+    ]
+  },
+  {
+    "stopId": 8000105,
+    "stopName": "Frankfurt&#x0028;Main&#x0029;Hbf",
+    "lat": "50.107149",
+    "lon": "8.663785",
+    "depTime": "05:06",
+    "train": "ICE 1088",
+    "type": "ICE",
+    "operator": "DB",
+    "notes": [
+      {
+        "key": "PF",
+        "priority": "200",
+        "text": "Please wear an FFP2 mask. You are legally required to do so"
+      },
+      {
+        "key": "CK",
+        "priority": "200",
+        "text": "Komfort Check-in possible (visit bahn.de/kci for more information)"
+      },
+      {
+        "key": "3G",
+        "priority": "205",
+        "text": "Nationwide «3G» rule applies on trains: valid proof must be presented"
+      },
+      {
+        "key": "FK",
+        "priority": "260",
+        "text": "Number of bicycles conveyed limited"
+      },
+      {
+        "key": "FR",
+        "priority": "260",
+        "text": "Bicycles conveyed - subject to reservation"
+      },
+      {
+        "key": "BR",
+        "priority": "450",
+        "text": "Bordrestaurant"
+      },
+      {
+        "key": "EH",
+        "priority": "560",
+        "text": "vehicle-mounted access aid"
+      }
+    ]
+  },
+  {
+    "stopId": 8000150,
+    "stopName": "Hanau Hbf",
+    "lat": "50.120957",
+    "lon": "8.929003",
+    "arrTime": "05:20",
+    "depTime": "05:21",
+    "train": "ICE 1088",
+    "type": "ICE",
+    "operator": "DB",
+    "notes": [
+      {
+        "key": "PF",
+        "priority": "200",
+        "text": "Please wear an FFP2 mask. You are legally required to do so"
+      },
+      {
+        "key": "CK",
+        "priority": "200",
+        "text": "Komfort Check-in possible (visit bahn.de/kci for more information)"
+      },
+      {
+        "key": "3G",
+        "priority": "205",
+        "text": "Nationwide «3G» rule applies on trains: valid proof must be presented"
+      },
+      {
+        "key": "FK",
+        "priority": "260",
+        "text": "Number of bicycles conveyed limited"
+      },
+      {
+        "key": "FR",
+        "priority": "260",
+        "text": "Bicycles conveyed - subject to reservation"
+      },
+      {
+        "key": "BR",
+        "priority": "450",
+        "text": "Bordrestaurant"
+      },
+      {
+        "key": "EH",
+        "priority": "560",
+        "text": "vehicle-mounted access aid"
+      }
+    ]
+  },
+  {
+    "stopId": 8000115,
+    "stopName": "Fulda",
+    "lat": "50.554722",
+    "lon": "9.683980",
+    "arrTime": "06:02",
+    "depTime": "06:04",
+    "train": "ICE 1088",
+    "type": "ICE",
+    "operator": "DB",
+    "notes": [
+      {
+        "key": "PF",
+        "priority": "200",
+        "text": "Please wear an FFP2 mask. You are legally required to do so"
+      },
+      {
+        "key": "CK",
+        "priority": "200",
+        "text": "Komfort Check-in possible (visit bahn.de/kci for more information)"
+      },
+      {
+        "key": "3G",
+        "priority": "205",
+        "text": "Nationwide «3G» rule applies on trains: valid proof must be presented"
+      },
+      {
+        "key": "FK",
+        "priority": "260",
+        "text": "Number of bicycles conveyed limited"
+      },
+      {
+        "key": "FR",
+        "priority": "260",
+        "text": "Bicycles conveyed - subject to reservation"
+      },
+      {
+        "key": "BR",
+        "priority": "450",
+        "text": "Bordrestaurant"
+      },
+      {
+        "key": "EH",
+        "priority": "560",
+        "text": "vehicle-mounted access aid"
+      }
+    ]
+  },
+  {
+    "stopId": 8003200,
+    "stopName": "Kassel-Wilhelmshöhe",
+    "lat": "51.313115",
+    "lon": "9.446899",
+    "arrTime": "06:34",
+    "depTime": "06:36",
+    "train": "ICE 1088",
+    "type": "ICE",
+    "operator": "DB",
+    "notes": [
+      {
+        "key": "PF",
+        "priority": "200",
+        "text": "Please wear an FFP2 mask. You are legally required to do so"
+      },
+      {
+        "key": "CK",
+        "priority": "200",
+        "text": "Komfort Check-in possible (visit bahn.de/kci for more information)"
+      },
+      {
+        "key": "3G",
+        "priority": "205",
+        "text": "Nationwide «3G» rule applies on trains: valid proof must be presented"
+      },
+      {
+        "key": "FK",
+        "priority": "260",
+        "text": "Number of bicycles conveyed limited"
+      },
+      {
+        "key": "FR",
+        "priority": "260",
+        "text": "Bicycles conveyed - subject to reservation"
+      },
+      {
+        "key": "BR",
+        "priority": "450",
+        "text": "Bordrestaurant"
+      },
+      {
+        "key": "EH",
+        "priority": "560",
+        "text": "vehicle-mounted access aid"
+      }
+    ]
+  },
+  {
+    "stopId": 8000128,
+    "stopName": "Göttingen",
+    "lat": "51.536812",
+    "lon": "9.926069",
+    "arrTime": "06:54",
+    "depTime": "06:55",
+    "train": "ICE 1088",
+    "type": "ICE",
+    "operator": "DB",
+    "notes": [
+      {
+        "key": "PF",
+        "priority": "200",
+        "text": "Please wear an FFP2 mask. You are legally required to do so"
+      },
+      {
+        "key": "CK",
+        "priority": "200",
+        "text": "Komfort Check-in possible (visit bahn.de/kci for more information)"
+      },
+      {
+        "key": "3G",
+        "priority": "205",
+        "text": "Nationwide «3G» rule applies on trains: valid proof must be presented"
+      },
+      {
+        "key": "FK",
+        "priority": "260",
+        "text": "Number of bicycles conveyed limited"
+      },
+      {
+        "key": "FR",
+        "priority": "260",
+        "text": "Bicycles conveyed - subject to reservation"
+      },
+      {
+        "key": "BR",
+        "priority": "450",
+        "text": "Bordrestaurant"
+      },
+      {
+        "key": "EH",
+        "priority": "560",
+        "text": "vehicle-mounted access aid"
+      }
+    ]
+  },
+  {
+    "stopId": 8000152,
+    "stopName": "Hannover Hbf",
+    "lat": "52.376764",
+    "lon": "9.741017",
+    "arrTime": "07:32",
+    "depTime": "07:36",
+    "train": "ICE 1088",
+    "type": "ICE",
+    "operator": "DB",
+    "notes": [
+      {
+        "key": "PF",
+        "priority": "200",
+        "text": "Please wear an FFP2 mask. You are legally required to do so"
+      },
+      {
+        "key": "CK",
+        "priority": "200",
+        "text": "Komfort Check-in possible (visit bahn.de/kci for more information)"
+      },
+      {
+        "key": "3G",
+        "priority": "205",
+        "text": "Nationwide «3G» rule applies on trains: valid proof must be presented"
+      },
+      {
+        "key": "FK",
+        "priority": "260",
+        "text": "Number of bicycles conveyed limited"
+      },
+      {
+        "key": "FR",
+        "priority": "260",
+        "text": "Bicycles conveyed - subject to reservation"
+      },
+      {
+        "key": "BR",
+        "priority": "450",
+        "text": "Bordrestaurant"
+      },
+      {
+        "key": "EH",
+        "priority": "560",
+        "text": "vehicle-mounted access aid"
+      }
+    ]
+  },
+  {
+    "stopId": 8000064,
+    "stopName": "Celle",
+    "lat": "52.620452",
+    "lon": "10.062471",
+    "arrTime": "07:55",
+    "depTime": "07:57",
+    "train": "ICE 1088",
+    "type": "ICE",
+    "operator": "DB",
+    "notes": [
+      {
+        "key": "PF",
+        "priority": "200",
+        "text": "Please wear an FFP2 mask. You are legally required to do so"
+      },
+      {
+        "key": "CK",
+        "priority": "200",
+        "text": "Komfort Check-in possible (visit bahn.de/kci for more information)"
+      },
+      {
+        "key": "3G",
+        "priority": "205",
+        "text": "Nationwide «3G» rule applies on trains: valid proof must be presented"
+      },
+      {
+        "key": "FK",
+        "priority": "260",
+        "text": "Number of bicycles conveyed limited"
+      },
+      {
+        "key": "FR",
+        "priority": "260",
+        "text": "Bicycles conveyed - subject to reservation"
+      },
+      {
+        "key": "BR",
+        "priority": "450",
+        "text": "Bordrestaurant"
+      },
+      {
+        "key": "EH",
+        "priority": "560",
+        "text": "vehicle-mounted access aid"
+      }
+    ]
+  },
+  {
+    "stopId": 8000168,
+    "stopName": "Uelzen",
+    "lat": "52.969782",
+    "lon": "10.553057",
+    "arrTime": "08:19",
+    "depTime": "08:21",
+    "train": "ICE 1088",
+    "type": "ICE",
+    "operator": "DB",
+    "notes": [
+      {
+        "key": "PF",
+        "priority": "200",
+        "text": "Please wear an FFP2 mask. You are legally required to do so"
+      },
+      {
+        "key": "CK",
+        "priority": "200",
+        "text": "Komfort Check-in possible (visit bahn.de/kci for more information)"
+      },
+      {
+        "key": "3G",
+        "priority": "205",
+        "text": "Nationwide «3G» rule applies on trains: valid proof must be presented"
+      },
+      {
+        "key": "FK",
+        "priority": "260",
+        "text": "Number of bicycles conveyed limited"
+      },
+      {
+        "key": "FR",
+        "priority": "260",
+        "text": "Bicycles conveyed - subject to reservation"
+      },
+      {
+        "key": "BR",
+        "priority": "450",
+        "text": "Bordrestaurant"
+      },
+      {
+        "key": "EH",
+        "priority": "560",
+        "text": "vehicle-mounted access aid"
+      }
+    ]
+  },
+  {
+    "stopId": 8000238,
+    "stopName": "Lüneburg",
+    "lat": "53.249652",
+    "lon": "10.419891",
+    "arrTime": "08:36",
+    "depTime": "08:38",
+    "train": "ICE 1088",
+    "type": "ICE",
+    "operator": "DB",
+    "notes": [
+      {
+        "key": "PF",
+        "priority": "200",
+        "text": "Please wear an FFP2 mask. You are legally required to do so"
+      },
+      {
+        "key": "CK",
+        "priority": "200",
+        "text": "Komfort Check-in possible (visit bahn.de/kci for more information)"
+      },
+      {
+        "key": "3G",
+        "priority": "205",
+        "text": "Nationwide «3G» rule applies on trains: valid proof must be presented"
+      },
+      {
+        "key": "FK",
+        "priority": "260",
+        "text": "Number of bicycles conveyed limited"
+      },
+      {
+        "key": "FR",
+        "priority": "260",
+        "text": "Bicycles conveyed - subject to reservation"
+      },
+      {
+        "key": "BR",
+        "priority": "450",
+        "text": "Bordrestaurant"
+      },
+      {
+        "key": "EH",
+        "priority": "560",
+        "text": "vehicle-mounted access aid"
+      }
+    ]
+  },
+  {
+    "stopId": 8000147,
+    "stopName": "Hamburg-Harburg",
+    "lat": "53.455910",
+    "lon": "9.991699",
+    "arrTime": "09:15",
+    "depTime": "09:17",
+    "train": "ICE 1088",
+    "type": "ICE",
+    "operator": "DB",
+    "notes": [
+      {
+        "key": "PF",
+        "priority": "200",
+        "text": "Please wear an FFP2 mask. You are legally required to do so"
+      },
+      {
+        "key": "CK",
+        "priority": "200",
+        "text": "Komfort Check-in possible (visit bahn.de/kci for more information)"
+      },
+      {
+        "key": "3G",
+        "priority": "205",
+        "text": "Nationwide «3G» rule applies on trains: valid proof must be presented"
+      },
+      {
+        "key": "FK",
+        "priority": "260",
+        "text": "Number of bicycles conveyed limited"
+      },
+      {
+        "key": "FR",
+        "priority": "260",
+        "text": "Bicycles conveyed - subject to reservation"
+      },
+      {
+        "key": "BR",
+        "priority": "450",
+        "text": "Bordrestaurant"
+      },
+      {
+        "key": "EH",
+        "priority": "560",
+        "text": "vehicle-mounted access aid"
+      }
+    ]
+  },
+  {
+    "stopId": 8002549,
+    "stopName": "Hamburg Hbf",
+    "lat": "53.552733",
+    "lon": "10.006909",
+    "arrTime": "09:29",
+    "depTime": "09:33",
+    "train": "ICE 1088",
+    "type": "ICE",
+    "operator": "DB",
+    "notes": [
+      {
+        "key": "PF",
+        "priority": "200",
+        "text": "Please wear an FFP2 mask. You are legally required to do so"
+      },
+      {
+        "key": "CK",
+        "priority": "200",
+        "text": "Komfort Check-in possible (visit bahn.de/kci for more information)"
+      },
+      {
+        "key": "3G",
+        "priority": "205",
+        "text": "Nationwide «3G» rule applies on trains: valid proof must be presented"
+      },
+      {
+        "key": "FK",
+        "priority": "260",
+        "text": "Number of bicycles conveyed limited"
+      },
+      {
+        "key": "FR",
+        "priority": "260",
+        "text": "Bicycles conveyed - subject to reservation"
+      },
+      {
+        "key": "BR",
+        "priority": "450",
+        "text": "Bordrestaurant"
+      },
+      {
+        "key": "EH",
+        "priority": "560",
+        "text": "vehicle-mounted access aid"
+      }
+    ]
+  },
+  {
+    "stopId": 8002548,
+    "stopName": "Hamburg Dammtor",
+    "lat": "53.560751",
+    "lon": "9.989569",
+    "arrTime": "09:36",
+    "depTime": "09:37",
+    "train": "ICE 1088",
+    "type": "ICE",
+    "operator": "DB",
+    "notes": [
+      {
+        "key": "PF",
+        "priority": "200",
+        "text": "Please wear an FFP2 mask. You are legally required to do so"
+      },
+      {
+        "key": "CK",
+        "priority": "200",
+        "text": "Komfort Check-in possible (visit bahn.de/kci for more information)"
+      },
+      {
+        "key": "3G",
+        "priority": "205",
+        "text": "Nationwide «3G» rule applies on trains: valid proof must be presented"
+      },
+      {
+        "key": "FK",
+        "priority": "260",
+        "text": "Number of bicycles conveyed limited"
+      },
+      {
+        "key": "FR",
+        "priority": "260",
+        "text": "Bicycles conveyed - subject to reservation"
+      },
+      {
+        "key": "BR",
+        "priority": "450",
+        "text": "Bordrestaurant"
+      },
+      {
+        "key": "EH",
+        "priority": "560",
+        "text": "vehicle-mounted access aid"
+      }
+    ]
+  },
+  {
+    "stopId": 8002553,
+    "stopName": "Hamburg-Altona",
+    "lat": "53.552697",
+    "lon": "9.935175",
+    "arrTime": "09:46",
+    "train": "ICE 1088",
+    "type": "ICE",
+    "operator": "DB",
+    "notes": [
+      {
+        "key": "PF",
+        "priority": "200",
+        "text": "Please wear an FFP2 mask. You are legally required to do so"
+      },
+      {
+        "key": "CK",
+        "priority": "200",
+        "text": "Komfort Check-in possible (visit bahn.de/kci for more information)"
+      },
+      {
+        "key": "3G",
+        "priority": "205",
+        "text": "Nationwide «3G» rule applies on trains: valid proof must be presented"
+      },
+      {
+        "key": "FK",
+        "priority": "260",
+        "text": "Number of bicycles conveyed limited"
+      },
+      {
+        "key": "FR",
+        "priority": "260",
+        "text": "Bicycles conveyed - subject to reservation"
+      },
+      {
+        "key": "BR",
+        "priority": "450",
+        "text": "Bordrestaurant"
+      },
+      {
+        "key": "EH",
+        "priority": "560",
+        "text": "vehicle-mounted access aid"
+      }
+    ]
+  },
+  {
+    "train": "ICE 9876",
+    "stopId": 8010304,
+    "stopName": "Rostock Hbf",
+    "type": "ICE"
+  },
+  {
+    "train": "ICE 9876",
+    "stopId": 8000105,
+    "stopName": "Hamburg Hbf",
+    "type": "ICE"
+  },
+  {
+    "train": "ICE 9876",
+    "stopId": 8000105,
+    "stopName": "Frankfurt Hbf",
+    "type": "ICE"
+  }
+]
