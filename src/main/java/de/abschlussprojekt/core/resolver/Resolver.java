@@ -69,6 +69,9 @@ public class Resolver {
     }
 
     public List<DepartureBoard> resolveJourneyDetailsById(List<DepartureBoard> departureBoardList) {
+        if (departureBoardList == null){
+            return Collections.emptyList();
+        }
         return departureBoardList.stream()
                 .map(this::appendJourneyDetails)
                 .collect(Collectors.toList());

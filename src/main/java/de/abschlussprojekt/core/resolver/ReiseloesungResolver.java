@@ -5,15 +5,17 @@ import de.abschlussprojekt.core.models.JourneyDetails;
 import de.abschlussprojekt.core.models.Reiseloesung;
 
 import javax.enterprise.context.ApplicationScoped;
+import javax.inject.Inject;
 import java.time.LocalDate;
 import java.time.LocalDateTime;
 import java.util.ArrayList;
-import java.util.Collections;
 import java.util.List;
-import java.util.stream.Collectors;
 
 @ApplicationScoped
 public class ReiseloesungResolver extends Resolver {
+
+    @Inject
+    UmstiegsChecker umstiegsChecker;
 
     public Reiseloesung getReiseloesung(
             String abfahrtLocation,
@@ -52,7 +54,7 @@ public class ReiseloesungResolver extends Resolver {
         try {
             einfacheReiseloesung = List.of(getJourneyDetailsList(locationIdAbfahrt, locationIdAnkunft, date, type));
         } catch (Exception e) {
-            einfacheReiseloesung = checkUmstiegsverbindung(
+            einfacheReiseloesung = umstiegsChecker.checkUmstiegsverbindung(
                     getFilterAndResolveDepartureBoardList(getFileName(locationIdAbfahrt.toString(), LocalDate.parse(date)), date, type),
                     locationIdAbfahrt,
                     locationIdAnkunft,
@@ -63,7 +65,7 @@ public class ReiseloesungResolver extends Resolver {
         return einfacheReiseloesung;
     }
 
-    private List<JourneyDetails> getJourneyDetailsList(
+    public List<JourneyDetails> getJourneyDetailsList(
             Integer locationIdAbfahrt,
             Integer locationIdAnkunft,
             String date,
@@ -79,57 +81,7 @@ public class ReiseloesungResolver extends Resolver {
         return cutJourneyDetailsNotNeededForReiseloesung(journeyDetailsListFilteredyByMatchingLocationdIds, locationIdAbfahrt, locationIdAnkunft);
     }
 
-    private List<List<JourneyDetails>> checkUmstiegsverbindung(List<DepartureBoard> departureBoardList,
-                                                               Integer locationIdAbfahrt,
-                                                               Integer locationIdAnkunft,
-                                                               String date,
-                                                               String type) {
-        List<Integer> stopIdList = departureBoardList.stream()
-                .flatMap(departureBoard -> departureBoard.getJourneyDetailsList().stream())
-                .map(JourneyDetails::getStopdId)
-                .collect(Collectors.toList());
-
-        for (Integer stopId : stopIdList) {
-            List<DepartureBoard> currentDepartureBoardList;
-
-            try {
-                currentDepartureBoardList = getFilterAndResolveDepartureBoardList(getFileName(stopId.toString(), LocalDate.parse(date)), date, type);
-                currentDepartureBoardList.stream()
-                        .filter(departureBoard -> departureBoard.getJourneyDetailsList().stream()
-                                .anyMatch(journeyDetails -> journeyDetails.getStopdId().equals(locationIdAnkunft)));
-            } catch (NullPointerException e) {
-                continue;
-            }
-
-            if (!currentDepartureBoardList.isEmpty()) {
-                for (DepartureBoard departureBoard : currentDepartureBoardList) {
-                    for (int j = 0; j <= departureBoard.getJourneyDetailsList().size(); j++) {
-                        try {
-                            if (departureBoard.getJourneyDetailsList().get(j).getStopdId().equals(locationIdAnkunft)) {
-                                return List.of(
-                                        getJourneyDetailsList(
-                                                locationIdAbfahrt,
-                                                departureBoard.getStopId(),
-                                                date,
-                                                type
-                                        ),
-                                        cutJourneyDetailsNotNeededForReiseloesung(
-                                                departureBoard.getJourneyDetailsList(),
-                                                departureBoard.getStopId(),
-                                                locationIdAnkunft
-                                        )
-                                );
-                            }
-                        } catch (IndexOutOfBoundsException ignored) {
-                        }
-                    }
-                }
-            }
-        }
-        return Collections.emptyList();
-    }
-
-    private List<DepartureBoard> getFilterAndResolveDepartureBoardList(
+    public List<DepartureBoard> getFilterAndResolveDepartureBoardList(
             String fileName,
             String date,
             String type
@@ -139,7 +91,7 @@ public class ReiseloesungResolver extends Resolver {
         return resolveJourneyDetailsById(departureBoardListFiltered);
     }
 
-    private List<JourneyDetails> cutJourneyDetailsNotNeededForReiseloesung(
+    public List<JourneyDetails> cutJourneyDetailsNotNeededForReiseloesung(
             List<JourneyDetails> journeyDetailsList,
             Integer locationIdAbfahrt,
             Integer locationIdAnkunft
