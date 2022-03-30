@@ -48,6 +48,7 @@ public class ReiseloesungResolver extends Resolver {
 
         List<List<JourneyDetails>> einfacheReiseloesung;
 
+        //TODO: herausfinden, wo Exception fliegt und try/catch entfernen
         try {
             einfacheReiseloesung = List.of(getJourneyDetailsList(locationIdAbfahrt, locationIdAnkunft, date, type));
         } catch (Exception e) {
