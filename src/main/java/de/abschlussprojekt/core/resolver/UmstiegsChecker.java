@@ -6,6 +6,7 @@ import de.abschlussprojekt.core.models.JourneyDetails;
 import javax.enterprise.context.ApplicationScoped;
 import javax.inject.Inject;
 import java.time.LocalDate;
+import java.util.Collection;
 import java.util.Collections;
 import java.util.List;
 import java.util.stream.Collectors;
@@ -25,41 +26,59 @@ public class UmstiegsChecker {
         List<Integer> stopIdList = getStopIdList(departureBoardList);
 
         for (Integer stopId : stopIdList) {
-            List<DepartureBoard> currentDepartureBoardList;
+            List<JourneyDetails> journeyDetailsList = getJourneyDetailsListFromStopId(stopId, date, type);
 
-            currentDepartureBoardList = reiseloesungResolver.getFilterAndResolveDepartureBoardList(reiseloesungResolver.getFileName(stopId.toString(), LocalDate.parse(date)), date, type);
+            for (int j = 0; j < journeyDetailsList.size(); j++) {
+                List<List<JourneyDetails>> verbindung = getVerbindungWhenStopIdEqualsAnkunft(journeyDetailsList, locationIdAbfahrt, locationIdAnkunft, date, type, stopId, j);
 
-            for (DepartureBoard departureBoard : currentDepartureBoardList) {
-                for (int j = 0; j < departureBoard.getJourneyDetailsList().size(); j++) {
-                    List<List<JourneyDetails>> verbindung = getVerbindungWhenStopIdEqualsAnkunft(locationIdAbfahrt, locationIdAnkunft, date, type, departureBoard, j);
-                    if (verbindung != null) {
-                        return verbindung;
-                    }
+                if (verbindung != null) {
+                    return verbindung;
                 }
             }
         }
         return Collections.emptyList();
     }
 
-    private List<List<JourneyDetails>> getVerbindungWhenStopIdEqualsAnkunft(Integer locationIdAbfahrt, Integer locationIdAnkunft, String date, String type, DepartureBoard departureBoard, int index) {
-        if (departureBoard.getJourneyDetailsList().get(index).getStopdId().equals(locationIdAnkunft)) {
-            return getListOfVerbindungen(locationIdAbfahrt, locationIdAnkunft, date, type, departureBoard);
+    private List<JourneyDetails> getJourneyDetailsListFromStopId(Integer stopId, String date,
+                                                                 String type) {
+        String fileName = reiseloesungResolver.getFileName(stopId.toString(), LocalDate.parse(date));
+
+        return reiseloesungResolver.getFilterAndResolveDepartureBoardList(fileName, date, type)
+                .stream()
+                .map(DepartureBoard::getJourneyDetailsList)
+                .flatMap(Collection::stream)
+                .collect(Collectors.toList());
+    }
+
+    private List<List<JourneyDetails>> getVerbindungWhenStopIdEqualsAnkunft(List<JourneyDetails> journeyDetailsList, Integer locationIdAbfahrt,
+                                                                            Integer locationIdAnkunft,
+                                                                            String date,
+                                                                            String type,
+                                                                            Integer stopId,
+                                                                            int index) {
+        if (journeyDetailsList.get(index).getStopdId().equals(locationIdAnkunft)) {
+            return getListOfVerbindungen(journeyDetailsList, locationIdAbfahrt, locationIdAnkunft, date, type, stopId);
         }
 
         return null;
     }
 
-    private List<List<JourneyDetails>> getListOfVerbindungen(Integer locationIdAbfahrt, Integer locationIdAnkunft, String date, String type, DepartureBoard departureBoard) {
+    private List<List<JourneyDetails>> getListOfVerbindungen(List<JourneyDetails> journeyDetailsList,
+                                                             Integer locationIdAbfahrt,
+                                                             Integer locationIdAnkunft,
+                                                             String date,
+                                                             String type,
+                                                             Integer stopId) {
         return List.of(
                 reiseloesungResolver.getJourneyDetailsList(
                         locationIdAbfahrt,
-                        departureBoard.getStopId(),
+                        stopId,
                         date,
                         type
                 ),
                 reiseloesungResolver.cutJourneyDetailsNotNeededForReiseloesung(
-                        departureBoard.getJourneyDetailsList(),
-                        departureBoard.getStopId(),
+                        journeyDetailsList,
+                        stopId,
                         locationIdAnkunft
                 )
         );
