@@ -7,7 +7,7 @@ import de.abschlussprojekt.core.validators.TimeFilter;
 import de.abschlussprojekt.core.validators.TrainTypeFilter;
 import de.abschlussprojekt.dmadapter.FileNameResolver;
 import de.abschlussprojekt.dmadapter.repositories.DepartureBoardRepository;
-import de.abschlussprojekt.dmadapter.repositories.JourneyDetailRepository;
+import de.abschlussprojekt.dmadapter.repositories.JourneyDetailsRepository;
 
 import javax.inject.Inject;
 import java.time.LocalDate;
@@ -41,7 +41,7 @@ public class Resolver {
     DepartureBoardRepository departureBoardRepository;
 
     @Inject
-    JourneyDetailRepository journeyDetailRepository;
+    JourneyDetailsRepository journeyDetailsRepository;
 
     public List<DepartureBoard> applyFilters(
             List<DepartureBoard> departureBoardList,
@@ -79,10 +79,10 @@ public class Resolver {
 
     public DepartureBoard appendJourneyDetails(DepartureBoard departureBoard) {
         String detailsId = departureBoard.getDetailsId();
-        String fileName = fileNameResolver.resolvePath(fileNameResolver.getMd5Hash(detailsId), "journeydetails");
+        String id = fileNameResolver.getMd5Hash(detailsId);
 
         if (fileNameResolver.fileExistsInJourneyDetails(detailsId)) {
-            departureBoard.setJourneyDetailsList(journeyDetailRepository.getByName(fileName));
+            departureBoard.setJourneyDetailsList(journeyDetailsRepository.getById(id));
         } else {
             departureBoard.setJourneyDetailsList(Collections.emptyList());
         }

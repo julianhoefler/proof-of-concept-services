@@ -1,5 +1,6 @@
 [
   {
+    "id": "a2f8431ddd17a9ab755e12b44a574575",
     "stopId": 8010255,
     "stopName": "Berlin Ostbahnhof",
     "lat": "52.510487",
@@ -47,6 +48,7 @@
     ]
   },
   {
+    "id": "a2f8431ddd17a9ab755e12b44a574575",
     "stopId": 8011160,
     "stopName": "Berlin Hbf",
     "lat": "52.525589",
@@ -95,6 +97,7 @@
     ]
   },
   {
+    "id": "a2f8431ddd17a9ab755e12b44a574575",
     "stopId": 8010404,
     "stopName": "Berlin-Spandau",
     "lat": "52.534650",
@@ -143,6 +146,7 @@
     ]
   },
   {
+    "id": "a2f8431ddd17a9ab755e12b44a574575",
     "stopId": 8006552,
     "stopName": "Wolfsburg Hbf",
     "lat": "52.429495",
@@ -191,6 +195,7 @@
     ]
   },
   {
+    "id": "a2f8431ddd17a9ab755e12b44a574575",
     "stopId": 8000049,
     "stopName": "Braunschweig Hbf",
     "lat": "52.252218",
@@ -239,6 +244,7 @@
     ]
   },
   {
+    "id": "a2f8431ddd17a9ab755e12b44a574575",
     "stopId": 8000169,
     "stopName": "Hildesheim Hbf",
     "lat": "52.160627",
@@ -287,6 +293,7 @@
     ]
   },
   {
+    "id": "a2f8431ddd17a9ab755e12b44a574575",
     "stopId": 8000128,
     "stopName": "Göttingen",
     "lat": "51.536812",
@@ -335,6 +342,7 @@
     ]
   },
   {
+    "id": "a2f8431ddd17a9ab755e12b44a574575",
     "stopId": 8003200,
     "stopName": "Kassel-Wilhelmshöhe",
     "lat": "51.313115",
@@ -383,6 +391,7 @@
     ]
   },
   {
+    "id": "a2f8431ddd17a9ab755e12b44a574575",
     "stopId": 8000115,
     "stopName": "Fulda",
     "lat": "50.554722",
@@ -431,6 +440,7 @@
     ]
   },
   {
+    "id": "a2f8431ddd17a9ab755e12b44a574575",
     "stopId": 8000150,
     "stopName": "Hanau Hbf",
     "lat": "50.120957",
@@ -479,6 +489,7 @@
     ]
   },
   {
+    "id": "a2f8431ddd17a9ab755e12b44a574575",
     "stopId": 8000105,
     "stopName": "Frankfurt&#x0028;Main&#x0029;Hbf",
     "lat": "50.107149",
@@ -527,6 +538,7 @@
     ]
   },
   {
+    "id": "a2f8431ddd17a9ab755e12b44a574575",
     "stopId": 8000244,
     "stopName": "Mannheim Hbf",
     "lat": "49.479352",
@@ -575,6 +587,7 @@
     ]
   },
   {
+    "id": "a2f8431ddd17a9ab755e12b44a574575",
     "stopId": 8000191,
     "stopName": "Karlsruhe Hbf",
     "lat": "48.993512",
@@ -623,6 +636,7 @@
     ]
   },
   {
+    "id": "a2f8431ddd17a9ab755e12b44a574575",
     "stopId": 8000290,
     "stopName": "Offenburg",
     "lat": "48.476479",
@@ -671,6 +685,7 @@
     ]
   },
   {
+    "id": "a2f8431ddd17a9ab755e12b44a574575",
     "stopId": 8000107,
     "stopName": "Freiburg&#x0028;Breisgau&#x0029; Hbf",
     "lat": "47.997696",
@@ -719,6 +734,7 @@
     ]
   },
   {
+    "id": "a2f8431ddd17a9ab755e12b44a574575",
     "stopId": 8000026,
     "stopName": "Basel Bad Bf",
     "lat": "47.567292",
@@ -767,6 +783,7 @@
     ]
   },
   {
+    "id": "a2f8431ddd17a9ab755e12b44a574575",
     "stopId": 8500010,
     "stopName": "Basel SBB",
     "lat": "47.547408",

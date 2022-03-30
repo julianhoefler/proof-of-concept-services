@@ -1295,9 +1295,12 @@
     "detailsId": "498933%2F169250%2F133460%2F99581%2F80%3fstation_evaId%3D8011160"
   },
   {
+    "name": "ICE 9876",
+    "type": "ICE",
+    "boardId": 8010304,
     "stopId": 8010304,
     "stopName": "Rostock Hbf",
-    "detailsId": "e92db50b-0924-48ea-9d56-c9bea301ceb6",
-    "type": "ICE"
+    "dateTime": "2022-08-04T10:46",
+    "detailsId": "e92db50b-0924-48ea-9d56-c9bea301ceb6"
   }
 ]

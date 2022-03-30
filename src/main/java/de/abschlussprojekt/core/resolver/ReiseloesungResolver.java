@@ -82,12 +82,11 @@ public class ReiseloesungResolver extends Resolver {
     }
 
     public List<DepartureBoard> getFilterAndResolveDepartureBoardList(
-            String fileName,
+            String id,
             String date,
             String type
     ) {
-        fileName = fileNameResolver.resolvePath(fileName, "departureboard");
-        List<DepartureBoard> departureBoardListFiltered = applyFilters(departureBoardRepository.getByName(fileName), type, date);
+        List<DepartureBoard> departureBoardListFiltered = applyFilters(departureBoardRepository.getById(id), type, date);
         return resolveJourneyDetailsById(departureBoardListFiltered);
     }
 

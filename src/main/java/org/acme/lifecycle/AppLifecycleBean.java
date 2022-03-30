@@ -4,6 +4,8 @@ import de.abschlussprojekt.core.models.LocationId;
 import de.abschlussprojekt.core.resolver.JsonFormatter;
 import de.abschlussprojekt.dmadapter.FileNameResolver;
 import de.abschlussprojekt.dmadapter.controller.FileLoader;
+import de.abschlussprojekt.dmadapter.repositories.DepartureBoardRepository;
+import de.abschlussprojekt.dmadapter.repositories.JourneyDetailsRepository;
 import io.quarkus.runtime.ShutdownEvent;
 import io.quarkus.runtime.StartupEvent;
 import org.jboss.logging.Logger;
@@ -26,14 +28,22 @@ public class AppLifecycleBean {
     @Inject
     FileLoader fileLoader;
 
+    @Inject
+    DepartureBoardRepository departureBoardRepository;
+
+    @Inject
+    JourneyDetailsRepository journeyDetailsRepository;
+
     private static final Logger LOGGER = Logger.getLogger("ListenerBean");
 
     private static List<LocationId> locationIdList = new ArrayList<>();
 
     void onStart(@Observes StartupEvent ev) {
         LOGGER.info("onStart Method has been triggered");
-        fileLoader.loadData();
+//        fileLoader.loadData();
         loadLocationIds();
+        departureBoardRepository.getDepartureBoardMap();
+        journeyDetailsRepository.getJourneyDetailsMap();
     }
 
     void onStop(@Observes ShutdownEvent ev) {
