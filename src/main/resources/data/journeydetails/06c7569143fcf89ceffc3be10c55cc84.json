@@ -1,5 +1,6 @@
 [
   {
+    "id": "06c7569143fcf89ceffc3be10c55cc84",
     "stopId": 8000105,
     "stopName": "Frankfurt&#x0028;Main&#x0029;Hbf",
     "lat": "50.107149",
@@ -47,6 +48,7 @@
     ]
   },
   {
+    "id": "06c7569143fcf89ceffc3be10c55cc84",
     "stopId": 8000150,
     "stopName": "Hanau Hbf",
     "lat": "50.120957",
@@ -95,6 +97,7 @@
     ]
   },
   {
+    "id": "06c7569143fcf89ceffc3be10c55cc84",
     "stopId": 8000115,
     "stopName": "Fulda",
     "lat": "50.554722",
@@ -143,6 +146,7 @@
     ]
   },
   {
+    "id": "06c7569143fcf89ceffc3be10c55cc84",
     "stopId": 8003200,
     "stopName": "Kassel-Wilhelmshöhe",
     "lat": "51.313115",
@@ -191,6 +195,7 @@
     ]
   },
   {
+    "id": "06c7569143fcf89ceffc3be10c55cc84",
     "stopId": 8000128,
     "stopName": "Göttingen",
     "lat": "51.536812",
@@ -239,6 +244,7 @@
     ]
   },
   {
+    "id": "06c7569143fcf89ceffc3be10c55cc84",
     "stopId": 8000152,
     "stopName": "Hannover Hbf",
     "lat": "52.376764",
@@ -287,6 +293,7 @@
     ]
   },
   {
+    "id": "06c7569143fcf89ceffc3be10c55cc84",
     "stopId": 8000064,
     "stopName": "Celle",
     "lat": "52.620452",
@@ -335,6 +342,7 @@
     ]
   },
   {
+    "id": "06c7569143fcf89ceffc3be10c55cc84",
     "stopId": 8000168,
     "stopName": "Uelzen",
     "lat": "52.969782",
@@ -383,6 +391,7 @@
     ]
   },
   {
+    "id": "06c7569143fcf89ceffc3be10c55cc84",
     "stopId": 8000238,
     "stopName": "Lüneburg",
     "lat": "53.249652",
@@ -431,6 +440,7 @@
     ]
   },
   {
+    "id": "06c7569143fcf89ceffc3be10c55cc84",
     "stopId": 8000147,
     "stopName": "Hamburg-Harburg",
     "lat": "53.455910",
@@ -479,6 +489,7 @@
     ]
   },
   {
+    "id": "06c7569143fcf89ceffc3be10c55cc84",
     "stopId": 8002549,
     "stopName": "Hamburg Hbf",
     "lat": "53.552733",
@@ -527,6 +538,7 @@
     ]
   },
   {
+    "id": "06c7569143fcf89ceffc3be10c55cc84",
     "stopId": 8002548,
     "stopName": "Hamburg Dammtor",
     "lat": "53.560751",
@@ -575,6 +587,7 @@
     ]
   },
   {
+    "id": "06c7569143fcf89ceffc3be10c55cc84",
     "stopId": 8002553,
     "stopName": "Hamburg-Altona",
     "lat": "53.552697",

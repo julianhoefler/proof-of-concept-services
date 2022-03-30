@@ -1,5 +1,6 @@
 [
   {
+    "id": "0d4ca70bb0b6e60d8ce3e0c67e4ea4f3",
     "stopId": 8000096,
     "stopName": "Stuttgart Hbf",
     "lat": "48.784081",
@@ -47,6 +48,7 @@
     ]
   },
   {
+    "id": "0d4ca70bb0b6e60d8ce3e0c67e4ea4f3",
     "stopId": 8000244,
     "stopName": "Mannheim Hbf",
     "lat": "49.479352",
@@ -95,6 +97,7 @@
     ]
   },
   {
+    "id": "0d4ca70bb0b6e60d8ce3e0c67e4ea4f3",
     "stopId": 8000105,
     "stopName": "Frankfurt&#x0028;Main&#x0029;Hbf",
     "lat": "50.107149",
@@ -143,6 +146,7 @@
     ]
   },
   {
+    "id": "0d4ca70bb0b6e60d8ce3e0c67e4ea4f3",
     "stopId": 8000115,
     "stopName": "Fulda",
     "lat": "50.554722",
@@ -191,6 +195,7 @@
     ]
   },
   {
+    "id": "0d4ca70bb0b6e60d8ce3e0c67e4ea4f3",
     "stopId": 8010097,
     "stopName": "Eisenach",
     "lat": "50.976919",
@@ -239,6 +244,7 @@
     ]
   },
   {
+    "id": "0d4ca70bb0b6e60d8ce3e0c67e4ea4f3",
     "stopId": 8010101,
     "stopName": "Erfurt Hbf",
     "lat": "50.972550",
@@ -287,6 +293,7 @@
     ]
   },
   {
+    "id": "0d4ca70bb0b6e60d8ce3e0c67e4ea4f3",
     "stopId": 8010205,
     "stopName": "Leipzig Hbf",
     "lat": "51.345467",
@@ -335,6 +342,7 @@
     ]
   },
   {
+    "id": "0d4ca70bb0b6e60d8ce3e0c67e4ea4f3",
     "stopId": 8010222,
     "stopName": "Lutherstadt Wittenberg Hbf",
     "lat": "51.867813",
@@ -383,6 +391,7 @@
     ]
   },
   {
+    "id": "0d4ca70bb0b6e60d8ce3e0c67e4ea4f3",
     "stopId": 8011113,
     "stopName": "Berlin Südkreuz",
     "lat": "52.475043",
@@ -431,6 +440,7 @@
     ]
   },
   {
+    "id": "0d4ca70bb0b6e60d8ce3e0c67e4ea4f3",
     "stopId": 8098160,
     "stopName": "Berlin Hbf &#x0028;tief&#x0029;",
     "lat": "52.525589",
@@ -479,6 +489,7 @@
     ]
   },
   {
+    "id": "0d4ca70bb0b6e60d8ce3e0c67e4ea4f3",
     "stopId": 8011102,
     "stopName": "Berlin Gesundbrunnen",
     "lat": "52.548961",

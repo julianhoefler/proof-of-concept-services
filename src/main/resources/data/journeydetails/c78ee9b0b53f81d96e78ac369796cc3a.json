@@ -1,17 +1,20 @@
 [
   {
+    "id": "c78ee9b0b53f81d96e78ac369796cc3a",
     "train": "ICE 9876",
     "stopId": 8010304,
     "stopName": "Rostock Hbf",
     "type": "ICE"
   },
   {
+    "id": "c78ee9b0b53f81d96e78ac369796cc3a",
     "train": "ICE 9876",
     "stopId": 8000105,
     "stopName": "Hamburg Hbf",
     "type": "ICE"
   },
   {
+    "id": "c78ee9b0b53f81d96e78ac369796cc3a",
     "train": "ICE 9876",
     "stopId": 8000105,
     "stopName": "Frankfurt Hbf",
