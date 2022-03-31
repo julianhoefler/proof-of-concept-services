@@ -1,13 +1,13 @@
 package de.abschlussprojekt.dmadapter.repositories;
 
 import de.abschlussprojekt.core.models.DepartureBoard;
+import org.springframework.stereotype.Repository;
 
-import javax.enterprise.context.ApplicationScoped;
 import java.time.LocalDateTime;
 import java.util.List;
 import java.util.stream.Collectors;
 
-@ApplicationScoped
+@Repository
 public class DepartureBoardRepository extends AbstractRepository<DepartureBoard> {
 
     public DepartureBoardRepository() {

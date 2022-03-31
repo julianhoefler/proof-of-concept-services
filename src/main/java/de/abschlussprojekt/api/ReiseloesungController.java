@@ -2,26 +2,26 @@ package de.abschlussprojekt.api;
 
 import de.abschlussprojekt.core.models.Reiseloesung;
 import de.abschlussprojekt.core.resolver.ReiseloesungResolver;
-import io.smallrye.common.constraint.NotNull;
 import lombok.AllArgsConstructor;
+import org.springframework.http.MediaType;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.RequestParam;
+import org.springframework.web.bind.annotation.RestController;
 
-import javax.ws.rs.*;
-import javax.ws.rs.core.MediaType;
+import javax.validation.constraints.NotNull;
 
+@RestController
 @AllArgsConstructor
-@Path("/reiseloesung")
 public class ReiseloesungController {
 
     private final ReiseloesungResolver reiseloesungResolver;
 
-    @GET
-    @Produces(MediaType.APPLICATION_JSON)
-    @Consumes(MediaType.MEDIA_TYPE_WILDCARD)
-    public Reiseloesung getResponse(@NotNull @QueryParam("abfahrtLocation") String abfahrtLocation,
-                                    @NotNull @QueryParam("ankunftLocation") String ankunftLocation,
-                                    @NotNull @QueryParam("hinfahrtDate") String hinfahrtDate,
-                                    @QueryParam("rueckfahrtDate") String rueckfahrtDate,
-                                    @QueryParam("trainType") String type) {
+    @GetMapping(value = "/reiseloesung", produces = MediaType.APPLICATION_JSON_VALUE)
+    public Reiseloesung getResponse(@NotNull @RequestParam("abfahrtLocation") String abfahrtLocation,
+                                    @NotNull @RequestParam("ankunftLocation") String ankunftLocation,
+                                    @NotNull @RequestParam("hinfahrtDate") String hinfahrtDate,
+                                    @RequestParam("rueckfahrtDate") String rueckfahrtDate,
+                                    @RequestParam("trainType") String type) {
 
         return reiseloesungResolver.getReiseloesung(abfahrtLocation, ankunftLocation, hinfahrtDate, rueckfahrtDate, type);
     }

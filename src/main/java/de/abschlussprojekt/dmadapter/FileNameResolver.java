@@ -1,6 +1,7 @@
 package de.abschlussprojekt.dmadapter;
 
-import javax.enterprise.context.ApplicationScoped;
+import org.springframework.stereotype.Service;
+
 import java.io.File;
 import java.io.IOException;
 import java.math.BigInteger;
@@ -12,7 +13,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.stream.Stream;
 
-@ApplicationScoped
+@Service
 public class FileNameResolver {
 
     private static final String BASE_DIRECTORY = "C:\\Users\\JulianHoefler\\Projekte\\eigeneProjekte\\proof-of-concept-services\\src\\main\\resources\\data\\";

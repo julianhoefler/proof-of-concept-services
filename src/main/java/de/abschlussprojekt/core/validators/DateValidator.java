@@ -1,16 +1,16 @@
 package de.abschlussprojekt.core.validators;
 
-import javax.enterprise.context.ApplicationScoped;
-import javax.ws.rs.BadRequestException;
+import org.springframework.stereotype.Service;
+
 import java.time.LocalDateTime;
 import java.time.format.DateTimeParseException;
 
-@ApplicationScoped
+@Service
 public class DateValidator {
 
     public void validate(LocalDateTime localDateTime) {
         if (!localDateTime.isAfter(LocalDateTime.now())) {
-            throw new BadRequestException("Date " + localDateTime + " is not today or in the future");
+            throw new RuntimeException("Date " + localDateTime + " is not today or in the future");
         }
     }
 

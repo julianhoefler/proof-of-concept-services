@@ -2,19 +2,21 @@ package de.abschlussprojekt.core.resolver;
 
 import de.abschlussprojekt.core.models.DepartureBoard;
 import de.abschlussprojekt.core.models.JourneyDetails;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.context.annotation.Lazy;
+import org.springframework.stereotype.Service;
 
-import javax.enterprise.context.ApplicationScoped;
-import javax.inject.Inject;
 import java.time.LocalDate;
 import java.util.Collection;
 import java.util.Collections;
 import java.util.List;
 import java.util.stream.Collectors;
 
-@ApplicationScoped
+@Service
 public class UmstiegsChecker {
 
-    @Inject
+    @Autowired
+    @Lazy
     ReiseloesungResolver reiseloesungResolver;
 
     public List<List<JourneyDetails>> checkUmstiegsverbindung(List<DepartureBoard> departureBoardList,

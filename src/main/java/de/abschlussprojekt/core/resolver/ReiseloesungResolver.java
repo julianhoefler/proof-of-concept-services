@@ -3,18 +3,18 @@ package de.abschlussprojekt.core.resolver;
 import de.abschlussprojekt.core.models.DepartureBoard;
 import de.abschlussprojekt.core.models.JourneyDetails;
 import de.abschlussprojekt.core.models.Reiseloesung;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
 
-import javax.enterprise.context.ApplicationScoped;
-import javax.inject.Inject;
 import java.time.LocalDate;
 import java.time.LocalDateTime;
 import java.util.ArrayList;
 import java.util.List;
 
-@ApplicationScoped
+@Service
 public class ReiseloesungResolver extends Resolver {
 
-    @Inject
+    @Autowired
     UmstiegsChecker umstiegsChecker;
 
     public Reiseloesung getReiseloesung(

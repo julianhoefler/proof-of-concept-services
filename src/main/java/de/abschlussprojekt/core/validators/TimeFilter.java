@@ -1,13 +1,13 @@
 package de.abschlussprojekt.core.validators;
 
 import de.abschlussprojekt.core.models.DepartureBoard;
+import org.springframework.stereotype.Service;
 
-import javax.enterprise.context.ApplicationScoped;
 import java.time.LocalDateTime;
 import java.util.List;
 import java.util.stream.Collectors;
 
-@ApplicationScoped
+@Service
 public class TimeFilter {
 
     public List<DepartureBoard> filterByTime(List<DepartureBoard> departureBoardList, LocalDateTime time) {

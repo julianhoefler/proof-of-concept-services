@@ -2,20 +2,18 @@ package de.abschlussprojekt.core.resolver;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.databind.type.CollectionType;
-import com.google.gson.Gson;
-import com.google.gson.GsonBuilder;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
 
-import javax.enterprise.context.ApplicationScoped;
-import javax.inject.Inject;
 import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.util.Collections;
 import java.util.List;
 
-@ApplicationScoped
+@Service
 public class JsonFormatter {
 
-    @Inject
+    @Autowired
     ObjectMapper objectMapper;
 
     public <T> List<T> getFileAsList(String absoluteFilePath, Class<T> itemClass) {

@@ -2,25 +2,24 @@ package de.abschlussprojekt.core.resolver;
 
 import de.abschlussprojekt.core.models.JourneyDetails;
 import de.abschlussprojekt.dmadapter.FileNameResolver;
-import io.quarkus.test.junit.QuarkusMock;
-import io.quarkus.test.junit.QuarkusTest;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.Test;
 import org.mockito.Mockito;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.boot.test.context.SpringBootTest;
 
-import javax.inject.Inject;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-@QuarkusTest
+@SpringBootTest
 class MapResolverTest {
 
     private static final Map<String, List<JourneyDetails>> journeyDetailsMap = new HashMap<>();
     private static final String DIRECTORY = "C:\\Users\\JulianHoefler\\Projekte\\eigeneProjekte\\proof-of-concept-services\\src\\main\\resources\\data\\journeydetails";
 
-    @Inject
+    @Autowired
     MapResolver mapResolver;
 
     @BeforeAll
@@ -29,7 +28,7 @@ class MapResolverTest {
 
         FileNameResolver fileNameResolverMock = Mockito.mock(FileNameResolver.class);
         Mockito.when(fileNameResolverMock.resolvePath("key", "subDirectory")).thenReturn(DIRECTORY);
-        QuarkusMock.installMockForType(fileNameResolverMock, FileNameResolver.class);
+//        QuarkusMock.installMockForType(fileNameResolverMock, FileNameResolver.class);
     }
 
     @Test

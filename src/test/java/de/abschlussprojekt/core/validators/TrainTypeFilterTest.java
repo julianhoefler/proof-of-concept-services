@@ -2,19 +2,19 @@ package de.abschlussprojekt.core.validators;
 
 import de.abschlussprojekt.core.models.DepartureBoard;
 import de.abschlussprojekt.core.models.Type;
-import io.quarkus.test.junit.QuarkusTest;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.boot.test.context.SpringBootTest;
 
-import javax.inject.Inject;
 import java.util.ArrayList;
 import java.util.List;
 
-@QuarkusTest
+@SpringBootTest
 class TrainTypeFilterTest {
 
-    @Inject
+    @Autowired
     TrainTypeFilter trainTypeFilter;
 
     List<DepartureBoard> departureBoardList = new ArrayList<>();

@@ -1,24 +1,20 @@
 package de.abschlussprojekt.core.validators;
 
 import de.abschlussprojekt.core.models.DepartureBoard;
-import io.quarkus.test.junit.QuarkusTest;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.boot.test.context.SpringBootTest;
 
-import javax.inject.Inject;
-
-import java.sql.Time;
 import java.time.LocalDateTime;
 import java.util.ArrayList;
 import java.util.List;
 
-import static org.junit.jupiter.api.Assertions.*;
-
-@QuarkusTest
+@SpringBootTest
 class TimeFilterTest {
 
-    @Inject
+    @Autowired
     TimeFilter timeFilter;
 
     List<DepartureBoard> departureBoardList = new ArrayList<>();

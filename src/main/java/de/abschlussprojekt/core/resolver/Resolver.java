@@ -8,8 +8,8 @@ import de.abschlussprojekt.core.validators.TrainTypeFilter;
 import de.abschlussprojekt.dmadapter.FileNameResolver;
 import de.abschlussprojekt.dmadapter.repositories.DepartureBoardRepository;
 import de.abschlussprojekt.dmadapter.repositories.JourneyDetailsRepository;
+import org.springframework.beans.factory.annotation.Autowired;
 
-import javax.inject.Inject;
 import java.time.LocalDate;
 import java.time.LocalDateTime;
 import java.util.Collections;
@@ -19,28 +19,28 @@ import java.util.stream.Collectors;
 
 public class Resolver {
 
-    @Inject
+    @Autowired
     DateValidator dateValidator;
 
-    @Inject
+    @Autowired
     LocationIdResolver locationIdResolver;
 
-    @Inject
+    @Autowired
     TimeFilter timeFilter;
 
-    @Inject
+    @Autowired
     TrainTypeFilter trainTypeFilter;
 
-    @Inject
+    @Autowired
     MapResolver mapResolver;
 
-    @Inject
+    @Autowired
     FileNameResolver fileNameResolver;
 
-    @Inject
+    @Autowired
     DepartureBoardRepository departureBoardRepository;
 
-    @Inject
+    @Autowired
     JourneyDetailsRepository journeyDetailsRepository;
 
     public List<DepartureBoard> applyFilters(

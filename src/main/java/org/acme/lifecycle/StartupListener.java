@@ -6,46 +6,50 @@ import de.abschlussprojekt.dmadapter.FileNameResolver;
 import de.abschlussprojekt.dmadapter.controller.FileLoader;
 import de.abschlussprojekt.dmadapter.repositories.DepartureBoardRepository;
 import de.abschlussprojekt.dmadapter.repositories.JourneyDetailsRepository;
-import io.quarkus.runtime.ShutdownEvent;
-import io.quarkus.runtime.StartupEvent;
-import org.jboss.logging.Logger;
+import org.slf4j.LoggerFactory;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Component;
 
-import javax.enterprise.context.ApplicationScoped;
-import javax.enterprise.event.Observes;
-import javax.inject.Inject;
+import javax.annotation.PostConstruct;
+import javax.annotation.PreDestroy;
 import java.util.ArrayList;
 import java.util.List;
+import java.util.logging.Logger;
 
-@ApplicationScoped
-public class AppLifecycleBean {
+@Component
+public class StartupListener {
 
-    @Inject
+    @Autowired
     JsonFormatter jsonFormatter;
 
-    @Inject
+    @Autowired
     FileNameResolver fileNameResolver;
 
-    @Inject
+    @Autowired
     FileLoader fileLoader;
 
-    @Inject
+    @Autowired
     DepartureBoardRepository departureBoardRepository;
 
-    @Inject
+    @Autowired
     JourneyDetailsRepository journeyDetailsRepository;
 
-    private static final Logger LOGGER = Logger.getLogger("ListenerBean");
+    private static final Logger LOGGER = Logger.getLogger("StartupListener");
+
+    private static final org.slf4j.Logger LOGGER1 = LoggerFactory.getLogger(StartupListener.class);
 
     private static List<LocationId> locationIdList = new ArrayList<>();
 
-    void onStart(@Observes StartupEvent ev) {
+    @PostConstruct
+    public void onStart() {
         LOGGER.info("onStart Method has been triggered");
         loadLocationIds();
         departureBoardRepository.getDepartureBoardMap();
         journeyDetailsRepository.getJourneyDetailsMap();
     }
 
-    void onStop(@Observes ShutdownEvent ev) {
+    @PreDestroy
+    void onStop() {
         LOGGER.info("onStop Method has been triggered");
     }
 

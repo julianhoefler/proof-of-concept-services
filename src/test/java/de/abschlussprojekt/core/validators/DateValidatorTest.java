@@ -1,17 +1,16 @@
 package de.abschlussprojekt.core.validators;
 
-import io.quarkus.test.junit.QuarkusTest;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.boot.test.context.SpringBootTest;
 
-import javax.inject.Inject;
-import javax.ws.rs.BadRequestException;
 import java.time.LocalDateTime;
 
-@QuarkusTest
+@SpringBootTest
 class DateValidatorTest {
 
-    @Inject
+    @Autowired
     DateValidator dateValidator;
 
     private final LocalDateTime invalidLocalDateTime = LocalDateTime.parse("2022-01-01T00:00");
@@ -20,7 +19,7 @@ class DateValidatorTest {
 
     @Test
     void validate_shouldThrowException_whenLocalDateTimeIsNotInTheFuture() {
-        Assertions.assertThrows(BadRequestException.class, () -> dateValidator.validate(invalidLocalDateTime));
+        Assertions.assertThrows(RuntimeException.class, () -> dateValidator.validate(invalidLocalDateTime));
     }
 
     @Test

@@ -2,13 +2,13 @@ package de.abschlussprojekt.core.validators;
 
 import de.abschlussprojekt.core.models.DepartureBoard;
 import de.abschlussprojekt.core.models.Type;
+import org.springframework.stereotype.Service;
 
-import javax.enterprise.context.ApplicationScoped;
 import java.util.Collections;
 import java.util.List;
 import java.util.stream.Collectors;
 
-@ApplicationScoped
+@Service
 public class TrainTypeFilter {
 
     public List<DepartureBoard> filterByTrainType(List<DepartureBoard> departureBoardList, Type type){

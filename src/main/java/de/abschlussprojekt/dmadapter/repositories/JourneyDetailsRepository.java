@@ -1,12 +1,12 @@
 package de.abschlussprojekt.dmadapter.repositories;
 
 import de.abschlussprojekt.core.models.JourneyDetails;
+import org.springframework.stereotype.Repository;
 
-import javax.enterprise.context.ApplicationScoped;
 import java.util.List;
 import java.util.stream.Collectors;
 
-@ApplicationScoped
+@Repository
 public class JourneyDetailsRepository extends AbstractRepository<JourneyDetails> {
 
     public JourneyDetailsRepository() {
