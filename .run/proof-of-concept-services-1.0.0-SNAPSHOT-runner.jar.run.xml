@@ -1,0 +1,7 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="proof-of-concept-services-1.0.0-SNAPSHOT-runner.jar" type="JarApplication">
+    <option name="JAR_PATH" value="$PROJECT_DIR$/target/proof-of-concept-services-1.0.0-SNAPSHOT-native-image-source-jar/proof-of-concept-services-1.0.0-SNAPSHOT-runner.jar" />
+    <option name="ALTERNATIVE_JRE_PATH" />
+    <method v="2" />
+  </configuration>
+</component>
