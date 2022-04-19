@@ -1,4 +1,4 @@
-# proof-of-concept-services Project Kundendokumentation
+# proof-of-concept-services Kundendokumentation
 
 ## Einleitung
 
