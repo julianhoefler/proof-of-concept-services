@@ -12,8 +12,14 @@ import javax.ws.rs.core.MediaType;
 @Path("/reiseloesung")
 public class ReiseloesungController {
 
+    /**
+     * Instanz zum Erstellen von Reiseloesungen, wird durch Dependency Injection instanziiert.
+     */
     private final ReiseloesungResolver reiseloesungResolver;
 
+    /**
+     * Methode zum Erstellen einer Reiseloesung, benoetigt mindestens abfahrtLocation, ankunftLocation und hinfahrtDate.
+     */
     @GET
     @Produces(MediaType.APPLICATION_JSON)
     @Consumes(MediaType.MEDIA_TYPE_WILDCARD)
