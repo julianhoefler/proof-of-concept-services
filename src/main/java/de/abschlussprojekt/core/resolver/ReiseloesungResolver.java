@@ -50,12 +50,13 @@ public class ReiseloesungResolver extends Resolver {
 
         List<List<JourneyDetails>> einfacheReiseloesung;
 
-        //TODO: herausfinden, wo Exception fliegt und try/catch entfernen
         try {
             einfacheReiseloesung = List.of(getJourneyDetailsList(locationIdAbfahrt, locationIdAnkunft, date, type));
         } catch (Exception e) {
             einfacheReiseloesung = umstiegsChecker.checkUmstiegsverbindung(
-                    getFilterAndResolveDepartureBoardList(getFileName(locationIdAbfahrt.toString(), LocalDate.parse(date)), date, type),
+                    getFilterAndResolveDepartureBoardList(
+                            getFileName(locationIdAbfahrt.toString(), LocalDate.parse(date)), date, type
+                    ),
                     locationIdAbfahrt,
                     locationIdAnkunft,
                     date,
@@ -75,10 +76,22 @@ public class ReiseloesungResolver extends Resolver {
         dateValidator.validate(localDateTime);
 
         String fileName = getFileName(locationIdAbfahrt.toString(), localDateTime.toLocalDate());
-        List<DepartureBoard> departureBoardListWithJourneyDetails = getFilterAndResolveDepartureBoardList(fileName, date, type);
-        List<JourneyDetails> journeyDetailsListFilteredyByMatchingLocationdIds = filterByMatchingLocationIds(departureBoardListWithJourneyDetails, locationIdAbfahrt, locationIdAnkunft);
+        List<DepartureBoard> departureBoardListWithJourneyDetails = getFilterAndResolveDepartureBoardList(
+                fileName,
+                date,
+                type
+        );
+        List<JourneyDetails> journeyDetailsListFilteredyByMatchingLocationdIds = filterByMatchingLocationIds(
+                departureBoardListWithJourneyDetails,
+                locationIdAbfahrt,
+                locationIdAnkunft
+        );
 
-        return cutJourneyDetailsNotNeededForReiseloesung(journeyDetailsListFilteredyByMatchingLocationdIds, locationIdAbfahrt, locationIdAnkunft);
+        return cutJourneyDetailsNotNeededForReiseloesung(
+                journeyDetailsListFilteredyByMatchingLocationdIds,
+                locationIdAbfahrt,
+                locationIdAnkunft
+        );
     }
 
     public List<DepartureBoard> getFilterAndResolveDepartureBoardList(
@@ -86,7 +99,11 @@ public class ReiseloesungResolver extends Resolver {
             String date,
             String type
     ) {
-        List<DepartureBoard> departureBoardListFiltered = applyFilters(departureBoardRepository.getById(id), type, date);
+        List<DepartureBoard> departureBoardListFiltered = applyFilters(
+                departureBoardRepository.getById(id),
+                type,
+                date
+        );
         return resolveJourneyDetailsById(departureBoardListFiltered);
     }
 
@@ -129,7 +146,11 @@ public class ReiseloesungResolver extends Resolver {
                 .filter(departureBoard -> departureBoard.getJourneyDetailsList().stream()
                         .map(JourneyDetails::getStopdId)
                         .anyMatch(stopId -> stopId.equals(locationIdAnkunft)))
-                .filter(departureBoard -> abfahrtBeforeAnkunft(departureBoard.getJourneyDetailsList(), locationIdAbfahrt, locationIdAnkunft))
+                .filter(departureBoard -> abfahrtBeforeAnkunft(
+                        departureBoard.getJourneyDetailsList(),
+                        locationIdAbfahrt,
+                        locationIdAnkunft
+                ))
                 .findFirst()
                 .orElse(new DepartureBoard())
                 .getJourneyDetailsList();
