@@ -1,9 +1,11 @@
 package de.abschlussprojekt.core.models;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
+import io.quarkus.runtime.annotations.RegisterForReflection;
 import lombok.NoArgsConstructor;
 
 @NoArgsConstructor
+@RegisterForReflection
 public class Location {
 
     @JsonProperty("name")
